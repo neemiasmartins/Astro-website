@@ -65,6 +65,7 @@ blockquote {
 	margin: 0px;
 	font-style: italic;
 }
+
 .dark body {
   background-color: #202023;
   color: #fff;
@@ -84,3 +85,11 @@ blockquote {
 .dark a {
 	color: #eca409;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
