@@ -65,3 +65,22 @@ blockquote {
 	margin: 0px;
 	font-style: italic;
 }
+.dark body {
+  background-color: #202023;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
+.dark h1, .dark h2, .dark h3,
+.dark h4,
+.dark h5,
+.dark h6,
+.dark strong,
+.dark b {
+	color: #fff;
+}
+.dark a {
+	color: #eca409;
+}

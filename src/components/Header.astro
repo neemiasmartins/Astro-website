@@ -1,18 +1,19 @@
 ---
 import HeaderLink from './HeaderLink.astro';
 import { SITE_TITLE } from '../config';
+import ThemeIcon from './ThemeIcon.astro';
 ---
 
 <header>
 	<h2>
-		{SITE_TITLE}
+		{SITE_TITLE} 
 	</h2>
 	<nav>
 		<HeaderLink href="/">Home</HeaderLink>
 		<HeaderLink href="/research">Research</HeaderLink>
 		<HeaderLink href="/teaching">Teaching/Disciplinas</HeaderLink>
-		<HeaderLink href="/blog">Blog</HeaderLink>
 		<HeaderLink href="/about">About</HeaderLink>
+		<ThemeIcon />
 	</nav>
 </header>
 <style>
