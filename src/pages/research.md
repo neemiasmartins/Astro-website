@@ -2,8 +2,12 @@
 layout: "../layouts/BlogPost.astro"
 title: "Research"
 description: "Papers and preprints"
-updatedDate: "October 26 2022"
-heroImage: "/placeholder-about.jpg"
+updatedDate: "October 28 2022"
+heroImage: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. A
+### Publications
+
+- P. Mehdipour, N. Martins. [Encoding $n$-to-1 baker's transformations.](http://dx.doi.org/10.1007/s00013-022-01743-z) Arch. Math. 119, 199–211 (2022).
+
+- N. Martins, P. Mehdipour. [Ergodicity of a 2-to-1 baker map.](http://dx.doi.org/10.5540/03.2021.008.01.0404) Proceeding Series of the Brazilian Society of Computational and Applied Mathematics. v.8, n.1 (2021). [Conference Paper]
