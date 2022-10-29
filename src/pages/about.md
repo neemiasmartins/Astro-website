@@ -1,4 +1,4 @@
-,---
+---
 layout: "../layouts/BlogPost.astro"
 title: "About Me"
 description: "Lorem ipsum dolor sit amet"
