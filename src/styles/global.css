@@ -12,6 +12,9 @@ body {
 	overflow-wrap: break-word;
 	line-height: 1.5;
 	color: #444;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 h1,
 h2,
