@@ -16,4 +16,4 @@ Adjunct Professor (Professor Substituto)
 Student Teaching (Estágio Docente)
 
 - Cálculo I - MMA5847. (2021)
-  - Avaliações [1](Avaliacao1-Calculo1.pdf), [2](Avaliacao2-Calculo1.pdf).
+  - Avaliações [1](/Avaliacao1-Calculo1.pdf), [2](/Avaliacao2-Calculo1.pdf).
