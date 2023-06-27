@@ -102,14 +102,14 @@ blockquote {
 }
 
 .links {
-  display: flex;
+  display: left;
   justify-content: space-evenly;
   align-items: center;
 	font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .name {
-  display: flex;
+  display: left;
   justify-content: space-evenly;
   align-items: center;
 	font-family: 'M PLUS Rounded 1c', sans-serif;
@@ -126,3 +126,10 @@ h6{
 	font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
+
+.profile_pic {
+	float:right;
+	width:12rem;
+	border-radius: 10px;
+	margin:0em 0em .7em .7em;
+	}
