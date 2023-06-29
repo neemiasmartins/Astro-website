@@ -6,7 +6,7 @@ updatedDate: ""
 heroImage: ""
 ---
 
-[CV Lattes](http://lattes.cnpq.br/1675857041280381) | CV En
+[CV Lattes](http://lattes.cnpq.br/1675857041280381)
 
 e-mail: n235435@dac.unicamp.br
 
