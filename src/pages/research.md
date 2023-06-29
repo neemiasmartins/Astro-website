@@ -2,7 +2,7 @@
 layout: "../layouts/BlogPost.astro"
 title: "Research"
 description: "Papers and preprints"
-updatedDate: "June 27 2023"
+updatedDate: ""
 heroImage: ""
 ---
 
