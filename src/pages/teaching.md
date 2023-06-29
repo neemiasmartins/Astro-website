@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/BlogPost.astro"
-title: "Teaching/Disciplinas"
+title: "Teaching"
 description: "List of courses"
 updatedDate: ""
 ---
