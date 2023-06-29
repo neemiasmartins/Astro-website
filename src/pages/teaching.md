@@ -2,8 +2,7 @@
 layout: "../layouts/BlogPost.astro"
 title: "Teaching/Disciplinas"
 description: "List of courses"
-updatedDate: "October 29 2022"
-heroImage: " "
+updatedDate: ""
 ---
 
 
