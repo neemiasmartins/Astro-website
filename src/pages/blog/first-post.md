@@ -6,3 +6,4 @@ pubDate: ""
 heroImage: "/placeholder-social.jpg"
 ---
 
+blog post content
