@@ -8,4 +8,4 @@ heroImage: ""
 
 ### Cálculo II - MA211
 
-- [Aula #3](https://neemias.org/3-aula.pdf) - 18/09/23 
+- [Aula #3](https://neemias.org/classnotes3.pdf) - 18/08/23 
