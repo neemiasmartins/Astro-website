@@ -8,7 +8,7 @@ heroImage: ""
 
 [CV Lattes](http://lattes.cnpq.br/1675857041280381)
 
-e-mail: n235435@dac.unicamp.br
+e-mail: neemias.math@gmail.com
 
 ### Links
  - [ResearchGate](https://www.researchgate.net/profile/Neemias-Martins)
