@@ -9,4 +9,6 @@ heroImage: ""
 ### Cálculo II - MA211
 Páginas da disciplina - Prof. Joa Weber: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Calc_II_12.html) - [Turma T](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Calc_II_TU.html) - [Exercícios](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Exercicios.html)
 
+#### Aulas de Exercícios:
+
 - [Aula #3](https://neemias.org/ped-classnotes3.pdf) - 18/08/23 
