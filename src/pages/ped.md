@@ -11,4 +11,4 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 
 #### Aulas de Exercícios:
 
-- [Aula #3](https://neemias.org/ped-classnotes3.pdf) - 18/08/23 
+- [Aula #3](https://neemias.org/ped-classnotes3.pdf) - 18/08/23 Regra de cadeia, teorema da função implícita, derivada direcional e vetor gradiente.
