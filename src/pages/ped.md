@@ -11,6 +11,9 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 
 #### Aulas de Exercícios:
 
+
 - [Aula #2](https://neemias.org/ped-classnotes2.pdf) - 11/08/23  Derivadas parciais, interpretação geométrica, diferenciabilidade, plano tangente e vetor normal, aproximação linear e diferencial.
 
 - [Aula #3](https://neemias.org/ped-classnotes3.pdf) - 18/08/23 Regra de cadeia, teorema da função implícita, derivada direcional e vetor gradiente.
+
+- [Aula #4](https://neemias.org/ped-classnotes4.pdf) - 25/08/23 Valores máximo e mínimo, multiplicadores de Lagrange.
