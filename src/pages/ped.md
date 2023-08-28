@@ -11,6 +11,7 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 
 #### Aulas de Exercícios:
 
+- [Aula #1](https://neemias.org/ped-classnotes1.pdf) - 04/08/23  Funções de várias variáveis, domínio, imagem, gráfico, curvas de nível, limites e continuidade.
 
 - [Aula #2](https://neemias.org/ped-classnotes2.pdf) - 11/08/23  Derivadas parciais, interpretação geométrica, diferenciabilidade, plano tangente e vetor normal, aproximação linear e diferencial.
 
