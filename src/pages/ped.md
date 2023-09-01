@@ -18,3 +18,7 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 - [Aula #3](https://neemias.org/ped-classnotes3.pdf) - 18/08/23 Regra de cadeia, teorema da função implícita, derivada direcional e vetor gradiente.
 
 - [Aula #4](https://neemias.org/ped-classnotes4.pdf) - 25/08/23 Valores máximo e mínimo, multiplicadores de Lagrange.
+
+- [Aula #5](https://neemias.org/ped-classnotes5.pdf) - 01/09/23 Exercícios de revisão.
+
+- [Extra #1](https://neemias.org/ped-classnotes-extra1.pdf) Contém alguns exercícios resolvidos que não foram feitos nas aulas de exercícios.
