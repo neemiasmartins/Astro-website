@@ -22,3 +22,5 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 - [Aula #5](https://neemias.org/ped-classnotes5.pdf) - 01/09/23 Exercícios de revisão.
 
 - [Extra #1](https://neemias.org/ped-classnotes-extra1.pdf) Contém alguns exercícios resolvidos que não foram feitos nas aulas de exercícios.
+
+- [Aula #6](https://neemias.org/ped-classnotes6.pdf) - 15/09/23 Integrais duplas, volumes, valor médio, linearidade, integrais iteradas, Teorema de Fubini
