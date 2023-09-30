@@ -26,3 +26,5 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 - [Aula #6](https://neemias.org/ped-classnotes6.pdf) - 15/09/23 Integrais duplas, volumes, valor médio, linearidade, integrais iteradas, Teorema de Fubini
 
 - [Aula #7](https://neemias.org/ped-classnotes7.pdf) - 22/09/23 Integrais duplas sobre regiões gerais, coordenadas polares, área de superfícies. Integrais triplas, coordenadas cilíndricas.
+
+- [Aula #8](https://neemias.org/ped-classnotes8.pdf) - 29/09/23 Coordenadas cilíndricas e coordenadas esféricas.
