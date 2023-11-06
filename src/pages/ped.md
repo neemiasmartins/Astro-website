@@ -37,3 +37,5 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 - [Aula 9](https://neemias.org/ped-classnotes9.1.pdf) - Campos vetoriais. Integrais de Linha. Teorema Fundamental das Integrais de Linha.
   - [Vídeo - Turma 1](https://drive.google.com/file/d/1JCxgEXQJRae9-4JZANfpU4dhPc-z6wfM/view?usp=share_link)
   - [Vídeo - Turma T](https://drive.google.com/file/d/17YXJcTdHXpQlQY1NZQoBK_RFm7l55dN_/view?usp=share_link)
+
+- [Aula 10 - Videoaula Extra](https://drive.google.com/file/d/1t1IahK9Cq2jZusin8U0oB97ygmaLzGA1/view?usp=sharing) - Teorema de Green. Rotacional e Divergente. Superfícies parametrizadas e suas áreas. Integrais de Superfície. [Anotações em pdf](https://neemias.org/ped-classnotes10.pdf)
