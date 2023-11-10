@@ -40,4 +40,6 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 
 - [Aula 10 - Videoaula Extra](https://drive.google.com/file/d/1t1IahK9Cq2jZusin8U0oB97ygmaLzGA1/view?usp=sharing) - Teorema de Green. Rotacional e Divergente. Superfícies parametrizadas e suas áreas. Integrais de Superfície. [Anotações em pdf](https://neemias.org/ped-classnotes10.pdf)
 
+- [Aula 11](https://neemias.org/ped-classnotes11.pdf) - Teorema de Stokes, Teorema do Divergente, e alguns exercícios de revisão.
+
 - [Extras - Provas Antigas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
