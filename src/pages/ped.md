@@ -43,3 +43,6 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 - [Aula 11](https://neemias.org/ped-classnotes11.pdf) - Teorema de Stokes, Teorema do Divergente, e alguns exercícios de revisão.
 
 - [Extras - Provas Antigas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
+
+
+ >👋  Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a cada um muito sucesso em suas caminhadas! Abraços!
