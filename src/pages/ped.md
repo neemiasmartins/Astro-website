@@ -6,13 +6,15 @@ updatedDate: ""
 heroImage: ""
 ---
 
-### Cálculo II - MA211
+
 
  <img src="/avatar.png" style="width:60px; float: right;
     margin-left: 20px; margin-right:0;"  alt="@neemias.math">
     👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a cada um muito sucesso em suas caminhadas! Abraços!* 
 
 ---
+
+### Cálculo II - MA211
 
 Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Calc_II_12.html) - [Turma T](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Calc_II_TU.html) - [Exercícios](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Exercicios.html) - [Atendimentos](https://disciplinas.ime.unicamp.br/ma211/atendimentos/)
 
