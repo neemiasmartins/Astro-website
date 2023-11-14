@@ -45,3 +45,5 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 - [Extras - Provas Antigas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
 
 
+
+<img style="float: right;" src="https://neemias.org/avatar.png"> 👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a cada um muito sucesso em suas caminhadas! Abraços!*
