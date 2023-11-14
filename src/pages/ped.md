@@ -46,6 +46,6 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 
 
  
- <img src="avatar.png" style="width:60px; float: right;
+ <img src="/avatar.png" style="width:60px; float: right;
     margin-left: 20px; margin-right:0;"  alt="@neemias.math">
     👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a cada um muito sucesso em suas caminhadas! Abraços!* 
