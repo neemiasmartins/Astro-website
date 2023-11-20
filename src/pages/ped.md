@@ -7,13 +7,6 @@ heroImage: ""
 ---
 
 
-
- <img src="/avatar.png" style="width:60px; float: right;
-    margin-left: 20px; margin-right:0;"  alt="@neemias.math">
-    👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a cada um muito sucesso em suas caminhadas! Abraços!* 
-
----
-
 ### Cálculo II - MA211
 
 Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Calc_II_12.html) - [Turma T](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Calc_II_TU.html) - [Exercícios](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Exercicios.html) - [Atendimentos](https://disciplinas.ime.unicamp.br/ma211/atendimentos/)
@@ -53,4 +46,11 @@ Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATI
 
 - [Extras - Provas Antigas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
 
+
+
+---
+
+ <img src="/avatar.png" style="width:60px; float: right;
+    margin-left: 20px; margin-right:0;"  alt="@neemias.math">
+    👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a cada um muitos sucessos em suas caminhadas! Abraços!* 
 
