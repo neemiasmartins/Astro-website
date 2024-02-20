@@ -11,7 +11,7 @@ Teaching Internship Program
  (Estágio Docente PED) 2023-2024
 
 - [Cálculo II - MA211 (2024/1)](/ped) 
-- [Cálculo II - MA211 (2023/2)](/ma211-calculo-ii-2023-2)
+- [Cálculo II - MA211 (2023/2)](/teaching/ma211-calculo-ii-2023-2)
 
 ## São Paulo State University - UNESP Rio Claro
 Student Teaching (Estágio Docente) 2021
