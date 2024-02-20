@@ -111,6 +111,7 @@ blockquote {
   justify-content: space-evenly;
   align-items: center;
 	font-family: Verdana, sans-serif;
+	font-size: 18px;
 }
 
 .name {
