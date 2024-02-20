@@ -5,17 +5,20 @@ description: "List of courses"
 updatedDate: ""
 ---
 
-### Universidade Estadual de Campinas / Campinas 2023
-Student Teaching (Estágio Docente PED) 
+## University of Campinas - UNICAMP
 
-- [Cálculo II - MA211. (2023/2)](/ped)
+Teaching Internship Program
+ (Estágio Docente PED) 2023-2024
 
-### Universidade Estadual Paulista / Rio Claro 2021
+- [Cálculo II - MA211 (2024/1)](/ped) 
+- [Cálculo II - MA211 (2023/2)](/ma211-calculo-ii-2023-2)
+
+## São Paulo State University - UNESP Rio Claro
 Student Teaching (Estágio Docente) 2021
 
 - Cálculo I - MMA5847. (2021)
 
-### Universidade Federal de Viçosa
+## Federal University of Viçosa - UFV
 Adjunct Professor (Professor Substituto) 2020
 
 - Cálculo Diferencial e Integral I - MAT 141 (2020)
