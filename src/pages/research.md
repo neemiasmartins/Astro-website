@@ -6,7 +6,7 @@ updatedDate: ""
 heroImage: ""
 ---
 
-### Publications
+## Publications
 
 - P. Mehdipour, N. Martins. [Encoding n-to-1 baker's transformations.](http://dx.doi.org/10.1007/s00013-022-01743-z) Arch. Math. 119, 199–211 (2022).
 
