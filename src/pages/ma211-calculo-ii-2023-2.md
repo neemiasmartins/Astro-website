@@ -3,7 +3,7 @@ layout: "../layouts/BlogPost.astro"
 title: "Cálculo II - MA211 - 2023/2"
 description: "Some classnotes "
 updatedDate: ""
-heroImage: ""
+heroImage: "/cb-unicamp.jpeg"
 ---
 
 
