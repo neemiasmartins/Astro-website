@@ -6,9 +6,9 @@ updatedDate: ""
 heroImage: ""
 ---
 
-[CV Lattes](http://lattes.cnpq.br/1675857041280381)
+[CV Lattes](http://lattes.cnpq.br/1675857041280381) (PT-BR)
 
-e-mail: neemias.math@gmail.com
+email: neemias@ime.unicamp.br
 
 ## Links
  - [ResearchGate](https://www.researchgate.net/profile/Neemias-Martins)
