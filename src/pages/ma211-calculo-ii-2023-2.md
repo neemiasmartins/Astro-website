@@ -7,8 +7,6 @@ heroImage: "/cb-unicamp.jpeg"
 ---
 
 
-Páginas da disciplina: [Turma 1](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Calc_II_12.html) - [Turma T](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Calc_II_TU.html) - [Exercícios](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2023-2-MA211-CalcII/Exercicios.html) - [Atendimentos](https://disciplinas.ime.unicamp.br/ma211/atendimentos/)
-
 ## Aulas de Exercícios:
 
 ### Unidade I
