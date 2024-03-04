@@ -112,7 +112,7 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
-	font-family: 'Kreon', sans-serif;
+	font-family: 'Bree Serif', sans-serif;
 }
 
 .links {
@@ -127,7 +127,7 @@ blockquote {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: 'Kreon', sans-serif;
+	font-family: 'Bree Serif', sans-serif;
 	font-size: 1.5em;
 
 }
@@ -138,7 +138,7 @@ h3,
 h4,
 h5,
 h6{
-	font-family: 'Kreon', serif;
+	font-family: 'Bree Serif', serif;
 }
 
 
