@@ -7,8 +7,10 @@
 
  @import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
 
+ @import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 body {
-	font-family: Verdana, sans-serif;
+	font-family: "Quattrocento Sans", sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -181,4 +183,28 @@ h3
 		font-family: "Quattrocento", serif;
 		font-weight: 700;
 		font-style: normal;
+	}
+
+	.quattrocento-sans-regular {
+		font-family: "Quattrocento Sans", sans-serif;
+		font-weight: 400;
+		font-style: normal;
+	}
+	
+	.quattrocento-sans-bold {
+		font-family: "Quattrocento Sans", sans-serif;
+		font-weight: 700;
+		font-style: normal;
+	}
+	
+	.quattrocento-sans-regular-italic {
+		font-family: "Quattrocento Sans", sans-serif;
+		font-weight: 400;
+		font-style: italic;
+	}
+	
+	.quattrocento-sans-bold-italic {
+		font-family: "Quattrocento Sans", sans-serif;
+		font-weight: 700;
+		font-style: italic;
 	}
