@@ -10,7 +10,7 @@
  @import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-	font-family: "Quattrocento Sans", sans-serif;
+	font-family: Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
