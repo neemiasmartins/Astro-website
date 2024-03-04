@@ -5,6 +5,8 @@
 
  @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 
+ @import url('https://fonts.googleapis.com/css2?family=Kreon:wght@300..700&display=swap');
+
 
 body {
 	font-family: Verdana, sans-serif;
@@ -110,7 +112,7 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
-	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-family: 'Kreon', sans-serif;
 }
 
 .links {
@@ -125,7 +127,7 @@ blockquote {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-family: 'Kreon', sans-serif;
 	font-size: 1.5em;
 
 }
@@ -136,7 +138,7 @@ h3,
 h4,
 h5,
 h6{
-	font-family: 'Bree Serif', serif;
+	font-family: 'Kreon', serif;
 }
 
 
@@ -168,6 +170,11 @@ h3
 		font-family: "Bree Serif", serif;
 		font-weight: 400;
 		font-style: normal;
-		letter-spacing: 0.05em;
 	}
 	
+	.kreon-serif {
+		font-family: "Kreon", serif;
+		font-optical-sizing: auto;
+		font-weight: <weight>;
+		font-style: normal;
+	}
