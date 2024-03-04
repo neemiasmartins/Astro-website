@@ -5,12 +5,10 @@
 
  @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 
- @import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
-
- @import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
 body {
-	font-family: Verdana, sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -113,14 +111,14 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
-	font-family: 'Quattrocent', sans-serif;
+	font-family: "Ubuntu", sans-serif;
 }
 
 .links {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: Verdana, sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	font-size: 18px;
 }
 
@@ -128,7 +126,7 @@ blockquote {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: 'Quattrocent', sans-serif;
+	font-family: "Ubuntu", sans-serif;
 	font-size: 1.5em;
 
 }
@@ -139,18 +137,18 @@ h3,
 h4,
 h5,
 h6{
-	font-family: 'Quattrocento', serif;
+	font-family: "Ubuntu", sans-serif;
 }
 
 
 h1
 {
-	font-size: 28px;
+	font-size: 22px;
 }
 
 h2
 {
-	font-size: 22px;
+	font-size: 20px;
 
 }
 
@@ -173,38 +171,51 @@ h3
 		font-style: normal;
 	}
 	
-	.quattrocento-regular {
-		font-family: "Quattrocento", serif;
+	.ubuntu-light {
+		font-family: "Ubuntu", sans-serif;
+		font-weight: 300;
+		font-style: normal;
+	}
+	
+	.ubuntu-regular {
+		font-family: "Ubuntu", sans-serif;
 		font-weight: 400;
 		font-style: normal;
 	}
 	
-	.quattrocento-bold {
-		font-family: "Quattrocento", serif;
-		font-weight: 700;
-		font-style: normal;
-	}
-
-	.quattrocento-sans-regular {
-		font-family: "Quattrocento Sans", sans-serif;
-		font-weight: 400;
+	.ubuntu-medium {
+		font-family: "Ubuntu", sans-serif;
+		font-weight: 500;
 		font-style: normal;
 	}
 	
-	.quattrocento-sans-bold {
-		font-family: "Quattrocento Sans", sans-serif;
+	.ubuntu-bold {
+		font-family: "Ubuntu", sans-serif;
 		font-weight: 700;
 		font-style: normal;
 	}
 	
-	.quattrocento-sans-regular-italic {
-		font-family: "Quattrocento Sans", sans-serif;
+	.ubuntu-light-italic {
+		font-family: "Ubuntu", sans-serif;
+		font-weight: 300;
+		font-style: italic;
+	}
+	
+	.ubuntu-regular-italic {
+		font-family: "Ubuntu", sans-serif;
 		font-weight: 400;
 		font-style: italic;
 	}
 	
-	.quattrocento-sans-bold-italic {
-		font-family: "Quattrocento Sans", sans-serif;
+	.ubuntu-medium-italic {
+		font-family: "Ubuntu", sans-serif;
+		font-weight: 500;
+		font-style: italic;
+	}
+	
+	.ubuntu-bold-italic {
+		font-family: "Ubuntu", sans-serif;
 		font-weight: 700;
 		font-style: italic;
 	}
+	
