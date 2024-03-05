@@ -10,7 +10,7 @@
 
  @font-face {
 	font-family: dumont;
-	src: url(DumontDisplaySemiBold-hinted.ttf);
+	src: url(DumontDisplaySemiBold-hinted.ttf) format("truetype");
 }
 
 body {
