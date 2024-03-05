@@ -122,14 +122,14 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
-	font-family: "Bree Serif", serif;
+	font-family: "Ubuntu", sans-serif;
 }
 
 .links {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "Bree Serif", serif;
+	font-family: "Ubuntu", sans-serif;
 	font-size: 18px;
 }
 
@@ -137,7 +137,7 @@ blockquote {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "Bree Serif", serif;
+	font-family: "Ubuntu", sans-serif;
 	font-size: 1.5em;
 
 }
@@ -148,7 +148,7 @@ h3,
 h4,
 h5,
 h6{
-	font-family: "Bree Serif", serif;
+	font-family: "Ubuntu", sans-serif;
 }
 
 
