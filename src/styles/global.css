@@ -15,8 +15,40 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* Webfont: Nohemi-Regular */@font-face {
+	font-family: 'Nohemi';
+	src: url('Nohemi-Regular.woff') format('woff'), /* Modern Browsers */
+			 url('Nohemi-Regular.woff2') format('woff2'), /* Modern Browsers */
+			 url('Nohemi-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+					 font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Nohemi-Medium */@font-face {
+	font-family: 'NohemiMed';
+	src: url('Nohemi-Medium.woff') format('woff'), /* Modern Browsers */
+			 url('Nohemi-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+					 font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+/* Webfont: Nohemi-SemiBold */@font-face {
+	font-family: 'NohemiSemBd';
+	src: url('Nohemi-SemiBold.woff') format('woff'), /* Modern Browsers */
+			 url('Nohemi-SemiBold.ttf') format('truetype'); /* Safari, Android, iOS */
+					 font-style: normal;
+	font-weight: normal;
+	text-rendering: optimizeLegibility;
+}
+
+
+
+
+
 body {
-	font-family: "Montserrat", sans-serif;
+	font-family: "Nohemi", sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -119,14 +151,14 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
-	font-family: "dumont", sans-serif;
+	font-family: "NohemiMedt", sans-serif;
 }
 
 .links {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "dumont", sans-serif;
+	font-family: "NohemiMedt", sans-serif;
 	font-size: 18px;
 }
 
@@ -134,7 +166,7 @@ blockquote {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "dumont", sans-serif;
+	font-family: "NohemiMedt", sans-serif;
 	font-size: 1.5em;
 
 }
@@ -145,7 +177,7 @@ h3,
 h4,
 h5,
 h6{
-	font-family: "dumont", sans-serif;
+	font-family: "NohemiMed", sans-serif;
 }
 
 
