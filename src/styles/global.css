@@ -44,11 +44,11 @@
 }
 
 
-
+@import url('https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 
 body {
-	font-family: "Nohemi", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -151,14 +151,14 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
-	font-family: "NohemiMedt", sans-serif;
+	font-family: "Noticia Text", serif;
 }
 
 .links {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "NohemiMedt", sans-serif;
+	font-family: "Noticia Text", serif;
 	font-size: 18px;
 }
 
@@ -166,7 +166,7 @@ blockquote {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "NohemiMedt", sans-serif;
+	font-family: "Noticia Text", serif;
 	font-size: 1.5em;
 
 }
@@ -177,7 +177,7 @@ h3,
 h4,
 h5,
 h6{
-	font-family: "NohemiMed", sans-serif;
+	font-family: "Noticia Text", serif;
 }
 
 
@@ -265,3 +265,28 @@ h3
 		font-weight: 400;
 		font-style: normal;
 	}
+
+	.noticia-text-regular {
+		font-family: "Noticia Text", serif;
+		font-weight: 400;
+		font-style: normal;
+	}
+	
+	.noticia-text-bold {
+		font-family: "Noticia Text", serif;
+		font-weight: 700;
+		font-style: normal;
+	}
+	
+	.noticia-text-regular-italic {
+		font-family: "Noticia Text", serif;
+		font-weight: 400;
+		font-style: italic;
+	}
+	
+	.noticia-text-bold-italic {
+		font-family: "Noticia Text", serif;
+		font-weight: 700;
+		font-style: italic;
+	}
+	
