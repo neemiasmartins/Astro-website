@@ -15,36 +15,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* Webfont: Nohemi-Regular */@font-face {
-	font-family: 'Nohemi';
-	src: url('Nohemi-Regular.woff') format('woff'), /* Modern Browsers */
-			 url('Nohemi-Regular.woff2') format('woff2'), /* Modern Browsers */
-			 url('Nohemi-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
-					 font-style: normal;
-	font-weight: normal;
-	text-rendering: optimizeLegibility;
-}
 
-/* Webfont: Nohemi-Medium */@font-face {
-	font-family: 'NohemiMed';
-	src: url('Nohemi-Medium.woff') format('woff'), /* Modern Browsers */
-			 url('Nohemi-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
-					 font-style: normal;
-	font-weight: normal;
-	text-rendering: optimizeLegibility;
-}
-
-/* Webfont: Nohemi-SemiBold */@font-face {
-	font-family: 'NohemiSemBd';
-	src: url('Nohemi-SemiBold.woff') format('woff'), /* Modern Browsers */
-			 url('Nohemi-SemiBold.ttf') format('truetype'); /* Safari, Android, iOS */
-					 font-style: normal;
-	font-weight: normal;
-	text-rendering: optimizeLegibility;
-}
-
-
-@import url('https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 
 body {
@@ -151,14 +122,14 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
-	font-family: "Noticia Text", serif;
+	font-family: "Bree Serif", serif;
 }
 
 .links {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "Noticia Text", serif;
+	font-family: "Bree Serif", serif;
 	font-size: 18px;
 }
 
@@ -166,7 +137,7 @@ blockquote {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "Noticia Text", serif;
+	font-family: "Bree Serif", serif;
 	font-size: 1.5em;
 
 }
@@ -177,7 +148,7 @@ h3,
 h4,
 h5,
 h6{
-	font-family: "Noticia Text", serif;
+	font-family: "Bree Serif", serif;
 }
 
 
@@ -205,88 +176,3 @@ h3
 	margin:0em 0em .7em .7em;
 	}
 
-	.bree-serif-regular {
-		font-family: "Bree Serif", serif;
-		font-weight: 400;
-		font-style: normal;
-	}
-	
-	.ubuntu-light {
-		font-family: "Ubuntu", sans-serif;
-		font-weight: 300;
-		font-style: normal;
-	}
-	
-	.ubuntu-regular {
-		font-family: "Ubuntu", sans-serif;
-		font-weight: 400;
-		font-style: normal;
-	}
-	
-	.ubuntu-medium {
-		font-family: "Ubuntu", sans-serif;
-		font-weight: 500;
-		font-style: normal;
-	}
-	
-	.ubuntu-bold {
-		font-family: "Ubuntu", sans-serif;
-		font-weight: 700;
-		font-style: normal;
-	}
-	
-	.ubuntu-light-italic {
-		font-family: "Ubuntu", sans-serif;
-		font-weight: 300;
-		font-style: italic;
-	}
-	
-	.ubuntu-regular-italic {
-		font-family: "Ubuntu", sans-serif;
-		font-weight: 400;
-		font-style: italic;
-	}
-	
-	.ubuntu-medium-italic {
-		font-family: "Ubuntu", sans-serif;
-		font-weight: 500;
-		font-style: italic;
-	}
-	
-	.ubuntu-bold-italic {
-		font-family: "Ubuntu", sans-serif;
-		font-weight: 700;
-		font-style: italic;
-	}
-	
-	.montserrat-font {
-		font-family: "Montserrat", sans-serif;
-		font-optical-sizing: auto;
-		font-weight: 400;
-		font-style: normal;
-	}
-
-	.noticia-text-regular {
-		font-family: "Noticia Text", serif;
-		font-weight: 400;
-		font-style: normal;
-	}
-	
-	.noticia-text-bold {
-		font-family: "Noticia Text", serif;
-		font-weight: 700;
-		font-style: normal;
-	}
-	
-	.noticia-text-regular-italic {
-		font-family: "Noticia Text", serif;
-		font-weight: 400;
-		font-style: italic;
-	}
-	
-	.noticia-text-bold-italic {
-		font-family: "Noticia Text", serif;
-		font-weight: 700;
-		font-style: italic;
-	}
-	
