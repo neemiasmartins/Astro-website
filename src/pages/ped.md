@@ -6,6 +6,9 @@ updatedDate: ""
 heroImage: ""
 ---
 
+## Aulas de Exercícios
+- Funções de várias variáveis; Limites e Continuidade. [Notas em pdf](https://neemias.org/)
+
 ## Informações
 - e-mail: neemias@ime.unicamp.br
 - Horários das Aulas de Exercícios:
