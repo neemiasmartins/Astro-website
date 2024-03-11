@@ -7,7 +7,7 @@ heroImage: ""
 ---
 
 ## Aulas de Exercícios
-- Funções de várias variáveis; Limites e Continuidade. [exercícios](https://neemias.org/ma211-2024-i/exercises1.pdf)
+- Funções de várias variáveis; Limites e Continuidade - [exercícios](https://neemias.org/ma211-2024-i/exercises1.pdf)
 
 ## Informações
 - e-mail: neemias@ime.unicamp.br
