@@ -9,6 +9,8 @@ heroImage: ""
 ## Aulas de Exercícios
 - Funções de várias variáveis; Limites e Continuidade - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises1.pdf)
 
+- Derivadas parciais; Planos tangentes e aproximações lineares - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises2.pdf)
+
 ## Informações
 - e-mail: neemias@ime.unicamp.br
 - Horários das Aulas de Exercícios:
