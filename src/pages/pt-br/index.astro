@@ -1,0 +1,42 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../config';
+import Section from '../components/Section.astro';
+---
+
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<link rel="sitemap" href="/sitemap-index.xml" />
+
+
+
+
+	</head>
+	<body>
+	
+		<Header title={SITE_TITLE} />
+		<main style="margin: auto 0;">
+
+			
+			<p><img src="/neemias-martins.png" style="width:120px;" class="profile_pic" alt="Photo Neemias"><h1 class="neemias">Hi! I'm Neemias.</h1>
+				I'm a PhD Candidate in Mathematics at <a href="https://www.ime.unicamp.br/">Imecc</a> / <a href="https://www.unicamp.br">Unicamp</a> under the supervision of <a href="https://www.ime.unicamp.br/~regisvarao/">Régis Varão</a> and <a href="https://www.researchgate.net/profile/Pouya-Mehdipour">Pouya Mehdipour</a>. </p>
+
+			<p>
+				I'm working in Dynamical Systems and Ergodic Theory. My research interests are Chaotic Dynamics, LM-Bernoulli transformations and Ornstein's theory for non-invertible systems.
+			</p>
+
+			<nav class="links"><a href="/research/">Research</a> <a href="/teaching/">Teaching</a>  <a href="/cv/">Contact</a>
+		
+
+			
+		
+
+		
+		</main>
+		<Footer />
+	</body>
+</html>
