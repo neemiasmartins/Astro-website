@@ -36,7 +36,7 @@ heroImage: "/cb-unicamp.jpeg"
   - [Vídeo - Turma 1](https://drive.google.com/file/d/1JCxgEXQJRae9-4JZANfpU4dhPc-z6wfM/view?usp=share_link)
   - [Vídeo - Turma T](https://drive.google.com/file/d/17YXJcTdHXpQlQY1NZQoBK_RFm7l55dN_/view?usp=share_link)
 
-- [Aula 10 - Videoaula Extra](https://drive.google.com/file/d/1t1IahK9Cq2jZusin8U0oB97ygmaLzGA1/view?usp=sharing) - Teorema de Green. Rotacional e Divergente. Superfícies parametrizadas e suas áreas. Integrais de Superfície. [Anotações em pdf](https://neemias.org/ped-classnotes10.pdf)
+- [Aula 10 - Videoaula Extra](https://neemias.org/ped-classnotes10.pdf) - Teorema de Green. Rotacional e Divergente. Superfícies parametrizadas e suas áreas. Integrais de Superfície.
 
 - [Aula 11](https://neemias.org/ped-classnotes11.pdf) - Teorema de Stokes, Teorema do Divergente, e alguns exercícios de revisão.
 
