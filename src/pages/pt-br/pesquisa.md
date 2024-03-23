@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BlogPost.astro"
+layout: "../../layouts/BlogPostLinksBr.astro"
 title: "Pesquisa"
 description: "Artigos e Projetos de pesquisa"
 updatedDate: ""

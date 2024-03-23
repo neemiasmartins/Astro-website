@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BlogPost.astro"
+layout: "../../layouts/BlogPostLinksBr.astro"
 title: "Ensino"
 description: "Lista de cursos ministrados"
 updatedDate: ""
