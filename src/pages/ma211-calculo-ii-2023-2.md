@@ -11,11 +11,11 @@ heroImage: "/cb-unicamp.jpeg"
 
 ### Unidade I
 
-- [Aula 1](https://neemias.org/ped-classnotes1.pdf) - 04/08/23  Funções de várias variáveis, domínio, imagem, gráfico, curvas de nível, limites e continuidade.
+- [Aula 1](https://neemias.org/teaching/ma211-2024-i/exercises1.pdf) - 04/08/23  Funções de várias variáveis, domínio, imagem, gráfico, curvas de nível, limites e continuidade.
 
-- [Aula 2](https://neemias.org/ped-classnotes2.pdf) - 11/08/23  Derivadas parciais, interpretação geométrica, diferenciabilidade, plano tangente e vetor normal, aproximação linear e diferencial.
+- [Aula 2](https://neemias.org/teaching/ma211-2024-i/exercises2.pdf) - 11/08/23  Derivadas parciais, interpretação geométrica, diferenciabilidade, plano tangente e vetor normal, aproximação linear e diferencial.
 
-- [Aula 3](https://neemias.org/ped-classnotes3.pdf) - 18/08/23 Regra de cadeia, teorema da função implícita, derivada direcional e vetor gradiente.
+- [Aula 3](https://neemias.org/teaching/ma211-2024-i/exercises3.pdf) - 18/08/23 Regra de cadeia, teorema da função implícita, derivada direcional e vetor gradiente.
 
 - [Aula 4](https://neemias.org/ped-classnotes4.pdf) - 25/08/23 Valores máximo e mínimo, multiplicadores de Lagrange.
 
