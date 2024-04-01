@@ -2,7 +2,7 @@
 layout: "../layouts/BlogPost.astro"
 title: "Cálculo II - MA211 - 2024/1"
 description: "Some class notes"
-updatedDate: "15/03/2024"
+updatedDate: "01/04/2024"
 heroImage: ""
 ---
 
@@ -12,6 +12,8 @@ heroImage: ""
 - Derivadas parciais; Planos tangentes e aproximações lineares - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises2.pdf)
 
 - Regra da cadeia; Derivadas direcionais e vetor gradiente; Valores máximo e mínimo - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises3.pdf)
+
+- Exercícios de Revisão - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises4.pdf)
 
 ## Informações
 - e-mail: neemias@ime.unicamp.br
