@@ -2,7 +2,7 @@
 layout: "../layouts/BlogPost.astro"
 title: "Cálculo II - MA211 - 2024/1"
 description: "Some class notes"
-updatedDate: "01/04/2024"
+updatedDate: "19/04/2024"
 heroImage: ""
 ---
 
