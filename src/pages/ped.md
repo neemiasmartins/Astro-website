@@ -7,6 +7,7 @@ heroImage: ""
 ---
 
 ## Aulas de Exercícios
+### Unidade I
 - Funções de várias variáveis; Limites e continuidade - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises1.pdf)
 
 - Derivadas parciais; Planos tangentes e aproximações lineares - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises2.pdf)
@@ -14,6 +15,9 @@ heroImage: ""
 - Regra da cadeia; Derivadas direcionais e vetor gradiente; Valores máximo e mínimo - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises3.pdf)
 
 - Exercícios de Revisão - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises4.pdf)
+
+### Unidade II
+- Integrais duplas sobre retângulos e regiões gerais - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises5.pdf)
 
 ## Informações
 - e-mail: neemias@ime.unicamp.br

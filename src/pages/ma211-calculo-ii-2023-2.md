@@ -11,21 +11,20 @@ heroImage: "/cb-unicamp.jpeg"
 
 ### Unidade I
 
-- [Aula 1](https://neemias.org/teaching/ma211-2024-i/exercises1.pdf) - 04/08/23  Funções de várias variáveis, domínio, imagem, gráfico, curvas de nível, limites e continuidade.
+- 04/08/23  Funções de várias variáveis, domínio, imagem, gráfico, curvas de nível, limites e continuidade.
 
-- [Aula 2](https://neemias.org/teaching/ma211-2024-i/exercises2.pdf) - 11/08/23  Derivadas parciais, interpretação geométrica, diferenciabilidade, plano tangente e vetor normal, aproximação linear e diferencial.
+- 11/08/23  Derivadas parciais, interpretação geométrica, diferenciabilidade, plano tangente e vetor normal, aproximação linear e diferencial.
 
-- [Aula 3](https://neemias.org/teaching/ma211-2024-i/exercises3.pdf) - 18/08/23 Regra de cadeia, teorema da função implícita, derivada direcional e vetor gradiente.
+- 18/08/23 Regra de cadeia, teorema da função implícita, derivada direcional e vetor gradiente.
 
-- [Aula 4](https://neemias.org/ped-classnotes4.pdf) - 25/08/23 Valores máximo e mínimo, multiplicadores de Lagrange.
+- 25/08/23 Valores máximo e mínimo, multiplicadores de Lagrange.
 
-- [Aula 5](https://neemias.org/ped-classnotes5.pdf) - 01/09/23 Exercícios de revisão.
+- 01/09/23 Exercícios de revisão.
 
-- [Extras](https://neemias.org/ped-classnotes-extra1.pdf) Contém alguns exercícios resolvidos que não foram feitos nas aulas de exercícios.
 
 ### Unidade II
 
-- [Aula 6](https://neemias.org/ped-classnotes6.pdf) - 15/09/23 Integrais duplas, volumes, valor médio, linearidade, integrais iteradas, Teorema de Fubini
+- 15/09/23 Integrais duplas, volumes, valor médio, linearidade, integrais iteradas, Teorema de Fubini
 
 - [Aula 7](https://neemias.org/ped-classnotes7.pdf) - 22/09/23 Integrais duplas sobre regiões gerais, coordenadas polares, área de superfícies. Integrais triplas, coordenadas cilíndricas.
 
