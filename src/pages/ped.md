@@ -19,6 +19,8 @@ heroImage: ""
 ### Unidade II
 - Integrais duplas sobre retângulos e regiões gerais - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises5.pdf)
 
+- Integrais duplas em coordenadas polares, área de superfície e integrais triplas em coordenadas cilíndricas - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises6.pdf)
+
 ## Informações
 - e-mail: neemias@ime.unicamp.br
 - Horários das Aulas de Exercícios:
