@@ -21,6 +21,8 @@ heroImage: ""
 
 - Integrais duplas em coordenadas polares, área de superfície e integrais triplas em coordenadas cilíndricas - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises6.pdf)
 
+- Integrais triplas em coordenadas esféricas e mudanças de variáveis - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises7.pdf)
+
 ## Informações
 - e-mail: neemias@ime.unicamp.br
 - Horários das Aulas de Exercícios:
