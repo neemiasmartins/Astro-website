@@ -23,8 +23,7 @@ heroImage: ""
 
 - Integrais triplas em coordenadas esféricas e mudanças de variáveis - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises7.pdf)
 
-### Unidade III
-- Não teremos aula no dia 17/05 (sexta-feira). (*)
+
 
 ## Informações
 - e-mail: neemias@ime.unicamp.br
@@ -38,7 +37,7 @@ heroImage: ""
   - Qua. 13h às 14h - IMECC 222
 - [Listas de Exercícios](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2024-1-MA211-CalcII/A-Exercicios.html)
 
-- (*) Na semana posterior a cada prova não teremos atendimentos nem aula de exercícios.
+
 
 
 
