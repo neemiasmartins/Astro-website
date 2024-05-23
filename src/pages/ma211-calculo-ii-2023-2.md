@@ -32,10 +32,8 @@ heroImage: "/cb-unicamp.jpeg"
 
 ### Unidade III
 - [Aula 9](https://neemias.org/ped-classnotes9.1.pdf) - Campos vetoriais. Integrais de Linha. Teorema Fundamental das Integrais de Linha.
-  - [Vídeo - Turma 1](https://drive.google.com/file/d/1JCxgEXQJRae9-4JZANfpU4dhPc-z6wfM/view?usp=share_link)
-  - [Vídeo - Turma T](https://drive.google.com/file/d/17YXJcTdHXpQlQY1NZQoBK_RFm7l55dN_/view?usp=share_link)
 
-- [Aula 10 - Videoaula Extra](https://neemias.org/ped-classnotes10.pdf) - Teorema de Green. Rotacional e Divergente. Superfícies parametrizadas e suas áreas. Integrais de Superfície.
+- [Aula 10 - aula Extra](https://neemias.org/ped-classnotes10.pdf) - Teorema de Green. Rotacional e Divergente. Superfícies parametrizadas e suas áreas. Integrais de Superfície.
 
 - [Aula 11](https://neemias.org/ped-classnotes11.pdf) - Teorema de Stokes, Teorema do Divergente, e alguns exercícios de revisão.
 

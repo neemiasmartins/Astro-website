@@ -2,7 +2,7 @@
 layout: "../layouts/BlogPost.astro"
 title: "Cálculo II - MA211 - 2024/1"
 description: "Some class notes"
-updatedDate: "16/05/2024"
+updatedDate: "23/05/2024"
 heroImage: ""
 ---
 
@@ -23,7 +23,9 @@ heroImage: ""
 
 - Integrais triplas em coordenadas esféricas e mudanças de variáveis - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises7.pdf)
 
-
+### Unidade III
+- Integrais de Linha, Teorema fundamental das integrais de linha e Teorema de Green - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises8.pdf)
+- [Extras - Provas Antigas Resolvidas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
 
 ## Informações
 - e-mail: neemias@ime.unicamp.br
