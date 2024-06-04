@@ -2,7 +2,7 @@
 layout: "../layouts/BlogPost.astro"
 title: "Cálculo II - MA211 - 2024/1"
 description: "Some class notes"
-updatedDate: "24/05/2024"
+updatedDate: "03/06/2024"
 heroImage: ""
 ---
 
@@ -25,6 +25,7 @@ heroImage: ""
 
 ### Unidade III
 - Integrais de Linha, Teorema fundamental das integrais de linha e Teorema de Green - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises8.pdf)
+- Rotacional e Divergente, Superfícies parametrizadas e suas áreas, Integrais de Superfície - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises9.pdf)
 - [Extras - Provas Antigas Resolvidas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
 
 ## Informações
