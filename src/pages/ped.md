@@ -26,6 +26,7 @@ heroImage: ""
 ### Unidade III
 - Integrais de Linha, Teorema fundamental das integrais de linha e Teorema de Green - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises8.pdf)
 - Rotacional e Divergente, Superfícies parametrizadas e suas áreas, Integrais de Superfície - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises9.pdf)
+- Teorema de Stokes e Teorema do Divergente - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises10.pdf)
 - [Extras - Provas Antigas Resolvidas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
 
 ## Informações
