@@ -2,8 +2,8 @@
 layout: "../layouts/BlogPost.astro"
 title: "Cálculo II - MA211 - 2024/1"
 description: "Some class notes"
-updatedDate: "03/06/2024"
-heroImage: ""
+updatedDate: "07/06/2024"
+heroImage: "/cb-unicamp.jpeg"
 ---
 
 ## Aulas de Exercícios
@@ -42,7 +42,11 @@ heroImage: ""
 - [Listas de Exercícios](https://www.math.stonybrook.edu/~joa/PUBLICATIONS/2024-1-MA211-CalcII/A-Exercicios.html)
 
 
+---
 
+ <img src="/avatar.png" style="width:60px; float: right;
+    margin-left: 20px; margin-right:0;"  alt="@neemias.math">
+    👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a todos muitos sucessos em suas carreiras! Abraços!* 
 
 
 
