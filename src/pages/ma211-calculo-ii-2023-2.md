@@ -26,18 +26,16 @@ heroImage: "/cb-unicamp.jpeg"
 
 - 15/09/23 Integrais duplas, volumes, valor médio, linearidade, integrais iteradas, Teorema de Fubini
 
-- [Aula 7](https://neemias.org/ped-classnotes7.pdf) - 22/09/23 Integrais duplas sobre regiões gerais, coordenadas polares, área de superfícies. Integrais triplas, coordenadas cilíndricas.
+- 22/09/23 Integrais duplas sobre regiões gerais, coordenadas polares, área de superfícies. Integrais triplas, coordenadas cilíndricas.
 
-- [Aula 8](https://neemias.org/ped-classnotes8.pdf) - 29/09/23 Coordenadas cilíndricas e coordenadas esféricas. Mudanças de variáveis.
+- 29/09/23 Coordenadas cilíndricas e coordenadas esféricas. Mudanças de variáveis.
 
 ### Unidade III
-- [Aula 9](https://neemias.org/ped-classnotes9.1.pdf) - Campos vetoriais. Integrais de Linha. Teorema Fundamental das Integrais de Linha.
+- Campos vetoriais. Integrais de Linha. Teorema Fundamental das Integrais de Linha.
 
-- [Aula 10 - aula Extra](https://neemias.org/ped-classnotes10.pdf) - Teorema de Green. Rotacional e Divergente. Superfícies parametrizadas e suas áreas. Integrais de Superfície.
+- Teorema de Green. Rotacional e Divergente. Superfícies parametrizadas e suas áreas. Integrais de Superfície.
 
-- [Aula 11](https://neemias.org/ped-classnotes11.pdf) - Teorema de Stokes, Teorema do Divergente, e alguns exercícios de revisão.
-
-- [Extras - Provas Antigas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
+- Teorema de Stokes, Teorema do Divergente, e alguns exercícios de revisão.
 
 
 
