@@ -2,7 +2,7 @@
 layout: "../layouts/BlogPost.astro"
 title: "Cálculo II - MA211 - 2024/1"
 description: "Some class notes"
-updatedDate: "07/06/2024"
+updatedDate: "21/06/2024"
 heroImage: "/cb-unicamp.jpeg"
 ---
 
@@ -29,6 +29,10 @@ heroImage: "/cb-unicamp.jpeg"
 - Teorema de Stokes e Teorema do Divergente - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises10.pdf)
 - [Extras - Provas Antigas Resolvidas](https://drive.google.com/drive/folders/12H93BgwS3mUy8yYPvdGhm3ACIMVS0Gp7?usp=sharing)
 
+### Exame
+- (Alguns) Exercícios de Revisão - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises11.pdf)
+
+
 ## Informações
 - e-mail: neemias@ime.unicamp.br
 - Horários das Aulas de Exercícios:
@@ -46,7 +50,8 @@ heroImage: "/cb-unicamp.jpeg"
 
  <img src="/avatar.png" style="width:60px; float: right;
     margin-left: 20px; margin-right:0;"  alt="@neemias.math">
-    👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a todos muitos sucessos em suas carreiras! Abraços!* 
+    👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a todos muitos sucessos em suas carreiras! Abraços!
+    Obs: As aulas e monitorias foram concluídas, caso queira tirar dúvidas em algum tópico/exercício antes do Exame, me mande um e-mail.* 
 
 
 
