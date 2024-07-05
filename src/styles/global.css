@@ -19,11 +19,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap');
 
 
 body {
 	font-family: "Montserrat", sans-serif;
+	font-size: 18px;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -32,7 +33,7 @@ body {
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	line-height: 1.5;
-	color: #444;
+	color: rgb(0, 0, 0);
 	min-height: 90vh;
 	display: flex;
 	flex-direction: column;
@@ -45,10 +46,13 @@ h5,
 h6,
 strong,
 b {
-	color: #222;
+	color: rgb(0, 0, 0);
 }
+
+
+
 a {
-	color: #3273dc;
+	color: #3273dc; 
 	text-decoration: none;
 }
 a:hover {
@@ -130,15 +134,16 @@ blockquote {
   display: flex;
   justify-content: space-between;
   align-items: center;
-	font-family: "Alegreya SC", serif;
+	font-family: "STIX Two Text", serif;
+	
 }
 
 .links {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "Alegreya SC", serif;
-	font-size: 18px;
+	font-family: "STIX Two Text", serif;
+	font-size: 22px;
 	font-weight: 500;
 }
 
@@ -146,14 +151,16 @@ blockquote {
   display: left;
   justify-content: space-evenly;
   align-items: center;
-	font-family: "Alegreya SC", serif;
-	font-size: 1.5em;
+	font-family: "STIX Two Text", serif;
+	font-size: 22px;
+	font-weight: 500;
 
 }
 
 h1,h2
 {
-	font-family: "Alegreya SC", serif;
+	font-family: "STIX Two Text", serif;
+
 }
 
 
@@ -161,18 +168,18 @@ h3,
 h4,
 h5,
 h6{
-	font-family: "Alegreya", serif;
+	font-family: "STIX Two Text", serif;
 }
 
 
 h1
 {
-	font-size: 22px;
+	font-size: 24px;
 }
 
 h2
 {
-	font-size: 20px;
+	font-size: 22px;
 
 }
 
@@ -190,7 +197,7 @@ h3
 	}
 
 .neemias {
-	font-family: "Alegreya", serif;
+	font-family: "STIX Two Text", serif;
 }
 
 	.alegreya-sc-regular {
@@ -252,4 +259,3 @@ h3
 		font-weight: 900;
 		font-style: italic;
 	}
-	
