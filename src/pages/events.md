@@ -8,8 +8,8 @@ heroImage: ""
 
 
 ### Ongoing events I’m involved in organizing commitee
-- [II Acampamento Científico no Imeccc](https://ime.unicamp.br/acampamento), [Official poster](https://neemias.org/Poster_Acampamento.jpg) 🖻
-- [I Workshop de IC do Imecc](http://sites.google.com/unicamp.br/workshop-ic), [Official poster](https://neemias.org/Poster_Workshop.jpg) 🖻
+- [II Acampamento Científico no Imeccc](https://ime.unicamp.br/acampamento), [Official poster](https://neemias.org/img/Poster_Acampamento.jpg) 🖻
+- [I Workshop de IC do Imecc](http://sites.google.com/unicamp.br/workshop-ic), [Official poster](https://neemias.org/img/Poster_WorkshopIC.jpg) 🖻
 
 ### Recent events I’ve attended/presented
 - [Dyadisc 7](https://dyadisc7.sciencesconf.org/) - Chilean and french interplay for symbolic dynamics. An attempt at a low-carbon intercontinental conference.
@@ -21,4 +21,4 @@ heroImage: ""
 - [Working Group at Unicamp](https://daniel.mat.br/pt-br/gdt/) - Local group of dynamical systems
 - [Imecc Dynamics Students](https://www.ime.unicamp.br/dynsys/index.php/seminars/) - Students seminars
 - [Seminários de Sistemas Estocásticos e Dinâmicos - IMECC](https://www.ime.unicamp.br/ssde/)
-- [Dinamici](https://www.dinamici.org/)
+- [Dinamici](https://www.dinamici.org/dai-seminars/) : Another Internet Seminar
