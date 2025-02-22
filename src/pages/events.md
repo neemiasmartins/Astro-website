@@ -7,9 +7,9 @@ heroImage: ""
 ---
 
 
-### Ongoing events I’m involved in organizing commitee
+### Recent events I’m involved in organizing commitee
 - [II Acampamento Científico no Imeccc](https://ime.unicamp.br/acampamento), [Official poster](https://neemias.org/img/Poster_Acampamento.jpg) 🖻
-- [I Workshop de IC do Imecc](http://sites.google.com/unicamp.br/workshop-ic), [Official poster](https://neemias.org/img/Poster_WorkshopIC.jpg) 🖻
+- [I Workshop de IC do Imecc](http://sites.google.com/unicamp.br/workshop-ic), [Official poster](https://neemias.org/img/Poster_WorkshopIC.jpg) 🖻, [Revista Picme](https://neemias.org/img/Revista_IC_2025.pdf)
 
 ### Recent events I’ve attended/presented
 - [Dyadisc 7](https://dyadisc7.sciencesconf.org/) - Chilean and french interplay for symbolic dynamics. An attempt at a low-carbon intercontinental conference.
