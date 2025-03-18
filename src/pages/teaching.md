@@ -12,6 +12,8 @@ Professor 2025
 - Elementos de Pesquisa Operacional e Simulação
 - Matemática Discreta
 
+___
+
 ## University of Campinas - UNICAMP
 Teaching Internship Program (Estágio Docente PED) 2023-2024
 - [Cálculo II - MA211 (2024/1)](/ped) 
