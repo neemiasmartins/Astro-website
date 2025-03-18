@@ -5,6 +5,13 @@ description: "List of courses"
 updatedDate: ""
 ---
 
+## Pontifical Catholic University of Campinas
+Professor 2025
+- Estatística e Probabilidade
+- Lógica Matemática
+- Elementos de Pesquisa Operacional e Simulação
+- Matemática Discreta
+
 ## University of Campinas - UNICAMP
 Teaching Internship Program (Estágio Docente PED) 2023-2024
 - [Cálculo II - MA211 (2024/1)](/ped) 
