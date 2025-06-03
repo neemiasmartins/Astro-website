@@ -7,6 +7,7 @@ updatedDate: ""
 
 ## Pontifical Catholic University of Campinas
 Professor 2025
+- Cálculo II
 - Estatística e Probabilidade
 - Lógica Matemática
 - Elementos de Pesquisa Operacional e Simulação
