@@ -131,7 +131,7 @@ blockquote {
 	
 }
 
-.links {
+/*.links {
   display: left;
   justify-content: space-evenly;
   align-items: center;
@@ -139,7 +139,19 @@ blockquote {
   font-optical-sizing: auto;
 	font-size: 22px;
 	font-weight: 500;
+} */
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
+.nav-links {
+  display: flex;
+  gap: 1rem;
+}
+
 
 .name {
   display: left;
