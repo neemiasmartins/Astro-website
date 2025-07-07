@@ -7,11 +7,12 @@ updatedDate: ""
 
 ## Pontifical Catholic University of Campinas
 Professor 2025
-- Cálculo II
-- Estatística e Probabilidade
-- Lógica Matemática
-- Elementos de Pesquisa Operacional e Simulação
-- Matemática Discreta
+- Cálculo II - 114h - [EA](https://www.puc-campinas.edu.br/graduacao/engenharia-agronomica/)
+- Estatística e Probabilidade - 76h - [TIND](https://www.puc-campinas.edu.br/graduacao/tecnologia-da-informacao-para-negocios-digitais/)
+- Lógica Matemática [Matutino] - 76h - [CS](https://www.puc-campinas.edu.br/graduacao/ciberseguranca/)
+- Lógica Matemática [Noturno] - 76h - [CS](https://www.puc-campinas.edu.br/graduacao/ciberseguranca/)
+- Elementos de Pesquisa Operacional e Simulação - 38h - [SI](https://www.puc-campinas.edu.br/graduacao/sistemas-de-informacao/)
+- Matemática Discreta - 38h - [SI](https://www.puc-campinas.edu.br/graduacao/sistemas-de-informacao/)
 
 ___
 
