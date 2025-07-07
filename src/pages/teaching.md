@@ -7,7 +7,7 @@ updatedDate: ""
 
 ## Pontifical Catholic University of Campinas
 Professor 2025
-- Cálculo II - 114h - [EA](https://www.puc-campinas.edu.br/graduacao/engenharia-agronomica/)
+- Cálculo I - 114h - [EA](https://www.puc-campinas.edu.br/graduacao/engenharia-agronomica/)
 - Estatística e Probabilidade - 76h - [TIND](https://www.puc-campinas.edu.br/graduacao/tecnologia-da-informacao-para-negocios-digitais/)
 - Lógica Matemática [Matutino] - 76h - [CS](https://www.puc-campinas.edu.br/graduacao/ciberseguranca/)
 - Lógica Matemática [Noturno] - 76h - [CS](https://www.puc-campinas.edu.br/graduacao/ciberseguranca/)
