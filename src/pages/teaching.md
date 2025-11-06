@@ -8,7 +8,7 @@ updatedDate: ""
 ##  Universidade Federal de Viçosa
 *2025*
 - Introdução à álgebra linear - MAT 137
-  [P1-Gabarito](/teaching/mat137-2025-2/P1-137-Gabarito.pdf), [P2-Gabarito](/teaching/mat137-2025-2/P2-137-Gabarito.pdf)
+  
 - Cálculo I - MAT 146
 ___
 ## Pontifícia Universidade Católica de Campinas
