@@ -7,9 +7,8 @@ updatedDate: ""
 
 ##  Universidade Federal de Viçosa
 *2025*
-- Introdução à álgebra linear - MAT 137
-  
-- Cálculo I - MAT 146
+- Introdução à álgebra linear - MAT 137.
+- Cálculo I - MAT 146.
 ___
 ## Pontifícia Universidade Católica de Campinas
 Professor 2025
