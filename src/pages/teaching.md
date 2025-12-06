@@ -8,9 +8,8 @@ updatedDate: ""
 ##  Universidade Federal de Viçosa
 *2025*
 
-- [Introdução à álgebra linear - MAT 137](https://neemias.org/img/2025-2_UFV_137.jpeg). 
-
-- [Cálculo I - MAT 146](https://neemias.org/img/2025-2_UFV_146.jpeg).
+- [Introdução à álgebra linear - MAT 137](https://neemias.org/img/2025-2_UFV_137.jpeg)
+- [Cálculo I - MAT 146](https://neemias.org/img/2025-2_UFV_146.jpeg)
 ___
 ## Pontifícia Universidade Católica de Campinas
 Professor 2025
