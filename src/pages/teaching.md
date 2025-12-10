@@ -3,6 +3,7 @@ layout: "../layouts/BlogPost.astro"
 title: "Teaching / Ensino"
 description: "Página contendo disciplinas ministradas e materiais didáticos relacionados"
 updatedDate: ""
+heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 
 ##  Universidade Federal de Viçosa

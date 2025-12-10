@@ -3,7 +3,7 @@ layout: "../layouts/BlogPost.astro"
 title: "Research"
 description: "Papers and preprints"
 updatedDate: ""
-heroImage: ""
+heroImage: "/img/teaching.jpg"
 ---
 
 ## Publications
