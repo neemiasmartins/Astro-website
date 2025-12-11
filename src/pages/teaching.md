@@ -27,7 +27,7 @@ Professor 2025
 ___
 
 ## Universidade Estadual de Campinas - UNICAMP
-Programa de Estágio Docente 2023-2024
+Programa de Estágio Docente 2023-2024 ![CB Unicamp](/cb-unicamp.jpg#right)
 - [Cálculo II - MA211 (2024/1)](/ped) 
 - Cálculo II - MA211 (2023/2)
 ___
