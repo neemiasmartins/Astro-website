@@ -221,15 +221,17 @@ h3 {
 img[src*='#left'] {
 	float: left;
 	margin: 10px 10px 10px 0;
+	width: 250px;
 	}
 	
 	img[src*='#center'] {
 	display: block;
 	margin: 0 auto;
+	width: 250px;
 	}
 	
 	img[src*='#right'] {
 	float: right;
 	margin: 10px 0 10px 10px;
-	width: 250px
+	width: 250px;
 	}
