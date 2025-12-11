@@ -217,3 +217,19 @@ h3
 h3 {
 	line-height: 0px;
 }
+
+img[src*='#left'] {
+	float: left;
+	margin: 10px 10px 10px 0;
+	}
+	
+	img[src*='#center'] {
+	display: block;
+	margin: 0 auto;
+	}
+	
+	img[src*='#right'] {
+	float: right;
+	margin: 10px 0 10px 10px;
+	width: 250px
+	}
