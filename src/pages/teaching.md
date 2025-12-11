@@ -34,8 +34,9 @@ Programa de Estágio Docente 2023-2024
 ![CB Unicamp](/cb-unicamp.jpeg#center)
 
 <div style="clear: both;"></div>
-___
 
+
+___
 ## Universidade Estadual Paulista - UNESP Rio Claro
 Professor Pós-graduando 2021
 - Cálculo I - MMA5847. (2021)
