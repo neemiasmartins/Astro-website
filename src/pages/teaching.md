@@ -27,9 +27,13 @@ Professor 2025
 ___
 
 ## Universidade Estadual de Campinas - UNICAMP
-Programa de Estágio Docente 2023-2024 ![CB Unicamp](/cb-unicamp.jpeg#right)
+Programa de Estágio Docente 2023-2024 
 - [Cálculo II - MA211 (2024/1)](/ped) 
 - Cálculo II - MA211 (2023/2)
+
+![CB Unicamp](/cb-unicamp.jpeg#right)
+
+<div style="clear: both;"></div>
 ___
 
 ## Universidade Estadual Paulista - UNESP Rio Claro
