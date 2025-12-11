@@ -13,11 +13,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
 ![MAT 137](/img/2025-2_UFV_137.jpeg#left) ![MAT 146](/img/2025-2_UFV_146.jpeg#right)
 
-
-
-
-
-
+<div style="clear: both;"></div>
 
 ___
 ## Pontifícia Universidade Católica de Campinas
