@@ -31,7 +31,7 @@ Programa de Estágio Docente 2023-2024
 - [Cálculo II - MA211 (2024/1)](/ped) 
 - Cálculo II - MA211 (2023/2)
 
-![CB Unicamp](/cb-unicamp.jpeg#right)
+![CB Unicamp](/cb-unicamp.jpeg#center)
 
 <div style="clear: both;"></div>
 ___
