@@ -154,6 +154,26 @@ blockquote {
 }
 
 
+nav.links a.brand {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+nav.links .brand-name {
+  font-style: italic;
+}
+
+nav.links .brand-domain {
+  font-style: normal;
+	font-size: 18px;
+  opacity: 0.8;
+}
+
+
+
+
+
 .name {
   display: left;
   justify-content: space-evenly;
