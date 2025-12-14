@@ -3,7 +3,7 @@ layout: "../layouts/BlogPost.astro"
 title: "Cálculo II - MA211 - 2024/1"
 description: "Some class notes"
 updatedDate: "21/06/2024"
-heroImage: "/cb-unicamp.jpeg"
+heroImage: "/img/cb-unicamp.jpeg"
 ---
 
 ## Aulas de Exercícios
