@@ -1,7 +1,6 @@
 <svg class="typst-doc" viewBox="0 0 283.46456692913387 283.46456692913387" width="283.46456692913387pt" height="283.46456692913387pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:h5="http://www.w3.org/1999/xhtml">
-    <path class="typst-shape" fill="#ffffff" fill-rule="nonzero" d="M 0 0v 283.46457 h 283.46457 v -283.46457 Z "/>
+    <path class="typst-shape" fill="#3273dc" fill-rule="nonzero" d="M 0 0v 283.46457 h 283.46457 v -283.46457 Z "/>
     <g>
-        <path class="typst-shape" fill="#3273dc" fill-rule="nonzero" transform="matrix(1 0 0 1 14.173228346456693 14.173228346456693)" d="M 0 0m 0 56.692913 c 0 -31.31063 25.382282 -56.692913 56.692913 -56.692913 h 141.73228 c 31.310623 0 56.6929 25.382282 56.6929 56.692913 v 141.73228 c 0 31.310623 -25.382278 56.6929 -56.6929 56.6929 h -141.73228 c -31.31063 0 -56.692913 -25.382278 -56.692913 -56.6929 Z "/>
         <g class="typst-text" transform="matrix(1 0 0 -1 40.05728346456694 243.9513779527559)">
             <use xlink:href="#g31D9512F7F099AD146EBF6FA98B0FDA9" x="0" y="0" fill="#ffffff" fill-rule="nonzero"/>
         </g>
