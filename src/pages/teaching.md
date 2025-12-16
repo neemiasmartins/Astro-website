@@ -6,43 +6,58 @@ updatedDate: ""
 heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 
-##  Universidade Federal de Viçosa
-*2025*
-- Introdução à álgebra linear - MAT 137 
-- Cálculo I - MAT 146 
+  <details open> 
+    <summary>Introdução à Álgebra Linear — MAT 137</summary>
+    <p>2025/2</p>
+    <img src="/img/2025-2_UFV_137.jpeg" alt="MAT 137" width="250">
+   
+  </details>
 
-![MAT 137](/img/2025-2_UFV_137.jpeg#left) ![MAT 146](/img/2025-2_UFV_146.jpeg#right)
+  <details open>
+    <summary>Cálculo I — MAT 146</summary>
+    <p>2025/2</p>
+    <img src="/img/2025-2_UFV_146.jpeg" alt="MAT 146" width="250">
+   
+  </details>
 
-<div style="clear: both;"></div>
+  <details>
+    <summary>Pontifícia Universidade Católica de Campinas</summary>
+    <p><strong>Professor — 2025</strong></p>
+    <ul>
+      <li>Cálculo I — 114h — <a href="https://www.puc-campinas.edu.br/graduacao/engenharia-agronomica/">EA</a></li>
+      <li>Estatística e Probabilidade — 76h — <a href="https://www.puc-campinas.edu.br/graduacao/tecnologia-da-informacao-para-negocios-digitais/">TIND</a></li>
+      <li>Lógica Matemática (Matutino) — 76h — <a href="https://www.puc-campinas.edu.br/graduacao/ciberseguranca/">CS</a></li>
+      <li>Lógica Matemática (Noturno) — 76h — <a href="https://www.puc-campinas.edu.br/graduacao/ciberseguranca/">CS</a></li>
+      <li>Elementos de Pesquisa Operacional e Simulação — 38h — <a href="https://www.puc-campinas.edu.br/graduacao/sistemas-de-informacao/">SI</a></li>
+      <li>Matemática Discreta — 38h — <a href="https://www.puc-campinas.edu.br/graduacao/sistemas-de-informacao/">SI</a></li>
+    </ul>
+  </details>
 
-___
-## Pontifícia Universidade Católica de Campinas
-Professor 2025
-- Cálculo I - 114h - [EA](https://www.puc-campinas.edu.br/graduacao/engenharia-agronomica/)
-- Estatística e Probabilidade - 76h - [TIND](https://www.puc-campinas.edu.br/graduacao/tecnologia-da-informacao-para-negocios-digitais/)
-- Lógica Matemática [Matutino] - 76h - [CS](https://www.puc-campinas.edu.br/graduacao/ciberseguranca/)
-- Lógica Matemática [Noturno] - 76h - [CS](https://www.puc-campinas.edu.br/graduacao/ciberseguranca/)
-- Elementos de Pesquisa Operacional e Simulação - 38h - [SI](https://www.puc-campinas.edu.br/graduacao/sistemas-de-informacao/)
-- Matemática Discreta - 38h - [SI](https://www.puc-campinas.edu.br/graduacao/sistemas-de-informacao/)
-___
+  <details>
+    <summary>Universidade Estadual de Campinas — UNICAMP</summary>
+    <img src="/img/cb-unicamp.jpeg#rightsmall" alt="CB Unicamp" width="250">
+    <p><strong>Programa de Estágio Docente — 2023–2024</strong></p>
+    <ul>
+      <li><a href="https://neemias.org/ped">Cálculo II — MA211 (2024/1)</a></li>
+      <li>Cálculo II — MA211 (2023/2)</li>
+    </ul>
+  
+  </details>
 
-## Universidade Estadual de Campinas - UNICAMP
-![CB Unicamp](/img/cb-unicamp.jpeg#rightsmall)
-Programa de Estágio Docente 2023-2024 
-- [Cálculo II - MA211 (2024/1)](/ped) 
-- Cálculo II - MA211 (2023/2)
+  <details>
+    <summary>UNESP Rio Claro - 2021</summary>
+    <p><strong>Professor Pós-graduando — 2021</strong></p>
+    <ul>
+      <li>Cálculo I — MMA5847 (2021)</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>UFV - 2020</summary>
+    <p><strong>Professor Substituto — 2020</strong></p>
+    <ul>
+      <li>Cálculo Diferencial e Integral I — MAT 141 (2020)</li>
+    </ul>
+  </details>
 
 
-
-<div style="clear: both;"></div>
-
-
-___
-## Universidade Estadual Paulista - UNESP Rio Claro
-Professor Pós-graduando 2021
-- Cálculo I - MMA5847. (2021)
-___
-## Universidade Federal de Viçosa - UFV
-Professor Substituto 2020
-- Cálculo Diferencial e Integral I - MAT 141 (2020)
-___
