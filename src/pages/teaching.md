@@ -8,7 +8,6 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
   <details open> 
     <summary>Introdução à Álgebra Linear — MAT 137</summary>
-    
     <img src="/img/2025-2_UFV_137.jpeg#right" alt="MAT 137" width="250">
    <p>2025/2</p>
    
