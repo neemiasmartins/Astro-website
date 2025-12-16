@@ -1,5 +1,5 @@
 ---
-layout: "../layouts/BlogPost.astro"
+layout: "../layouts/teaching.astro"
 title: "Teaching / Ensino"
 description: "Página contendo disciplinas ministradas e materiais didáticos relacionados"
 updatedDate: ""
@@ -8,16 +8,16 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
   <details open> 
     <summary>Introdução à Álgebra Linear — MAT 137</summary>
-    <p>2025/2</p>
-    <img src="/img/2025-2_UFV_137.jpeg" alt="MAT 137" width="250">
+    
+    <img src="/img/2025-2_UFV_137.jpeg#right" alt="MAT 137" width="250">
+   <p>2025/2</p>
    
   </details>
 
   <details open>
     <summary>Cálculo I — MAT 146</summary>
-    <p>2025/2</p>
-    <img src="/img/2025-2_UFV_146.jpeg" alt="MAT 146" width="250">
-   
+    <img src="/img/2025-2_UFV_146.jpeg#right" alt="MAT 146" width="250">
+   <p>2025/2</p>
   </details>
 
   <details>
