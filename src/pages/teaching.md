@@ -8,7 +8,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 ## UFV
   <details open>
     <summary>Cálculo I — MAT 146</summary>
-    <img src="/img/2025-2_UFV_146.jpeg#left" alt="MAT 146" width="250">
+    <img src="/img/2025-2_UFV_146.jpeg" alt="MAT 146" width="250">
    <p>2025/2</p><p><strong>Ementa:</strong>Limites e Continuidade. Derivadas. Aplicações da derivada. Integrais. Aplicações da integral. </p>
    <div style="clear:both;"></div>
   </details>
@@ -16,7 +16,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
   <details open> 
     <summary>Introdução à Álgebra Linear — MAT 137
     </summary>
-    <img src="/img/2025-2_UFV_137.jpeg#left" alt="MAT 137" width="250">
+    <img src="/img/2025-2_UFV_137.jpeg" alt="MAT 137" width="250">
     <p>2025/2</p><p><strong>Ementa:</strong>Matrizes. Sistema de equações lineares. Determinantes e matriz inversa. Espaços vetoriais. Transformações lineares. Diagonalização de operadores.</p>
    <div style="clear:both;"></div>
   </details>
@@ -57,7 +57,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
   <details>
     <summary>UFV - 2020</summary>
-    <p><strong>Professor Substituto — 2020</strong></p>
+    <p><strong>Professor Substituto</strong></p>
     <ul>
       <li>Cálculo Diferencial e Integral I — MAT 141 (2020)</li>
     </ul>
