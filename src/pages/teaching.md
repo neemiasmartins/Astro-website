@@ -6,24 +6,26 @@ updatedDate: ""
 heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 ## UFV
+  <details open>
+    <summary>Cálculo I — MAT 146</summary>
+    <img src="/img/2025-2_UFV_146.jpeg#left" alt="MAT 146" width="250">
+   <p>2025/2</p><p><strong>Ementa:</strong>Limites e Continuidade. Derivadas. Aplicações da derivada. Integrais. Aplicações da integral. </p>
+   <div style="clear:both;"></div>
+  </details>
+
   <details open> 
     <summary>Introdução à Álgebra Linear — MAT 137
     </summary>
     <img src="/img/2025-2_UFV_137.jpeg#left" alt="MAT 137" width="250">
     <p>2025/2</p><p><strong>Ementa:</strong>Matrizes. Sistema de equações lineares. Determinantes e matriz inversa. Espaços vetoriais. Transformações lineares. Diagonalização de operadores.</p>
-   
+   <div style="clear:both;"></div>
   </details>
 
-  <details open>
-    <summary>Cálculo I — MAT 146</summary>
-    <img src="/img/2025-2_UFV_146.jpeg#left" alt="MAT 146" width="250">
-   <p>2025/2</p>
-  </details>
 
 ## Cursos em outras instituições
   <details>
-    <summary>Pontifícia Universidade Católica de Campinas</summary>
-    <p><strong>Professor — 2025</strong></p>
+    <summary>PUC Campinas - 2025</summary>
+    <p><strong>Professor</strong></p>
     <ul>
       <li>Cálculo I — 114h — <a href="https://www.puc-campinas.edu.br/graduacao/engenharia-agronomica/">EA</a></li>
       <li>Estatística e Probabilidade — 76h — <a href="https://www.puc-campinas.edu.br/graduacao/tecnologia-da-informacao-para-negocios-digitais/">TIND</a></li>
@@ -35,7 +37,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
   </details>
 
   <details>
-    <summary>Universidade Estadual de Campinas — UNICAMP</summary>
+    <summary>UNICAMP - 2023/2024</summary>
     <img src="/img/cb-unicamp.jpeg#rightsmall" alt="CB Unicamp" width="250">
     <p><strong>Programa de Estágio Docente — 2023–2024</strong></p>
     <ul>
