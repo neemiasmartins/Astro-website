@@ -320,7 +320,7 @@ img[src*='#left'] {
 			padding-top: 1rem;
 		}
 
-		dark details summary {
+		.dark details summary {
 			width: 100%;
 			padding: 0.5rem 0;
 			border-top: 1px solid rgb(255, 255, 255);
@@ -331,7 +331,7 @@ img[src*='#left'] {
 			list-style: none;
 		}
 		
-		dark details summary:after {
+		.dark details summary:after {
 			content: "+";
 			color: #fff;
 			position: absolute;
