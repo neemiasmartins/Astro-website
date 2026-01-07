@@ -7,6 +7,16 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 ## UFV
   <details>
+    <summary>Medida e Integração - MAT 644 (Mestrado)</summary>
+   <p>2026/0</p><p><strong>Ementa:</strong>Medidas e extensão de medidas. Medidas com sinal. Funções mensuráveis. Integração. Teorema de Radon-Nikodyn. Espaços de Banach Clássicos. Imagens de medidas e medidas-produto. Derivação e integração. </p>
+   <div style="clear:both;"></div>
+  </details>
+  <details>
+    <summary>Matemática Básica - MAT 101</summary>
+   <p>2026/0 (Intercambistas do Timor Leste)</p><p><strong>Ementa:</strong>Conjuntos numéricos. Cálculo algébrico. Polinômios. Funções. Regiões no plano. </p>
+   <div style="clear:both;"></div>
+  </details>
+  <details>
     <summary>Cálculo I - MAT 146</summary>
     <img src="/img/2025-2_UFV_146.jpeg" alt="MAT 146" width="250">
    <p>2025/2</p><p><strong>Ementa:</strong>Limites e Continuidade. Derivadas. Aplicações da derivada. Integrais. Aplicações da integral. </p>
