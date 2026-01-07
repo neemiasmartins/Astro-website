@@ -6,7 +6,7 @@ updatedDate: ""
 heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 ## UFV
-  <details>
+  <details open>
     <summary>Medida e Integração - MAT 644 (Mestrado)</summary>
    <p>2026/0: <a href="https://drive.google.com/file/d/1PHdcgBlFIKUeoPkvw9njjp8fMZnajkGd/view?usp=sharing">Notas de aula</a></p><p><strong>Ementa:</strong>Medidas e extensão de medidas. Medidas com sinal. Funções mensuráveis. Integração. Teorema de Radon-Nikodyn. Espaços de Banach Clássicos. Imagens de medidas e medidas-produto. Derivação e integração. </p>
    <div style="clear:both;"></div>
