@@ -8,7 +8,11 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 ## UFV
   <details open>
     <summary>Medida e Integração - MAT 644 (Mestrado)</summary>
-   <p>2026/0: <a href="https://drive.google.com/file/d/1PHdcgBlFIKUeoPkvw9njjp8fMZnajkGd/view?usp=sharing">Notas de aula</a></p><p><strong>Ementa:</strong>Medidas e extensão de medidas. Medidas com sinal. Funções mensuráveis. Integração. Teorema de Radon-Nikodyn. Espaços de Banach Clássicos. Imagens de medidas e medidas-produto. Derivação e integração. </p>
+     <p><strong>2026/0</strong></p>
+    <ul> 
+    <li><a href="https://drive.google.com/file/d/1PHdcgBlFIKUeoPkvw9njjp8fMZnajkGd/view?usp=sharing">Notas de aula</a></li>
+     <li><a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a></li>
+     </ul><p><strong>Ementa:</strong>Medidas e extensão de medidas. Medidas com sinal. Funções mensuráveis. Integração. Teorema de Radon-Nikodyn. Espaços de Banach Clássicos. Imagens de medidas e medidas-produto. Derivação e integração. </p>
    <div style="clear:both;"></div>
   </details>
   <details>
