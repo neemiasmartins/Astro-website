@@ -7,11 +7,10 @@ heroImage: "/img/teaching.jpg"
 ---
 
 ## Publications
+- N. Martins, P.G. Mattos, R. Varão. *Folding and Metric Entropies for Extended Shifts.* J Dyn Diff Equat (2026). [[doi]](https://doi.org/10.1007/s10884-025-10479-7)
 - P. Mehdipour, N. Martins. *Encoding n-to-1 baker's transformations.*  Arch. Math. 119, 199–211 (2022) [[doi]](http://dx.doi.org/10.1007/s00013-022-01743-z)
 ## Preprints
 - N. Martins, P. Mehdipour, R. Varão. *Ornstein isomorphism theorem for n-to-1 LM-Bernoulli transformations.* _in preparation._ (2025)
-
-- N. Martins, P. G. Mattos, R. Varão. *Folding and Metric Entropies for Extended Shifts.* arXiv:2407.01828 (2025) [[arxiv]](https://arxiv.org/abs/2407.01828) [[pdf]](https://arxiv.org/pdf/2407.01828)
 
 
 ## Conference Papers
