@@ -449,10 +449,10 @@ img-slider {
 }
 
 /* Don't need button navigation */
-@supports (scroll-snap-type) {
+/*@supports (scroll-snap-type) {
   .slider > a {
     display: none;
   }
-}
+}*/
 
 /* carrossel de imagens:fim */
