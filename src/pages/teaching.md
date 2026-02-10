@@ -8,12 +8,25 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 ## UFV
   <details open>
     <summary>Medida e Integração - MAT 644 (Mestrado)</summary>
-     <p><strong>2026/0</strong></p>
-    <ul> 
-    <li><a href="https://drive.google.com/file/d/1PHdcgBlFIKUeoPkvw9njjp8fMZnajkGd/view?usp=sharing">Notas de aula</a></li>
-     <li><a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a></li>
-     <li><a href="https://drive.google.com/file/d/17OSDq_HiW6LGEgvxjs0Ep04CrKUvVShG/view?usp=sharing">Prova 1</a></li>
-     </ul><p><strong>Ementa:</strong>Medidas e extensão de medidas. Medidas com sinal. Funções mensuráveis. Integração. Teorema de Radon-Nikodyn. Espaços de Banach Clássicos. Imagens de medidas e medidas-produto. Derivação e integração. </p>
+  <div class="slider">
+ 
+  <div class="slides">
+    <div id="slide-1">
+      <img src="/img/2026-0_UFV_644-1.jpeg" alt="MAT 644" width="300">
+    </div>
+    <div id="slide-2">
+      <img src="/img/2026-0_UFV_644-2.jpeg" alt="MAT 644" width="300">
+    </div>
+
+  </div>
+  
+  <a href="#slide-1">1</a>
+  <a href="#slide-2">2</a>
+
+  
+</div>
+
+  <p><strong>2026/0</strong>. <a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a></p><p> <strong>Ementa:</strong> Medidas e extensão de medidas. Medidas com sinal. Funções mensuráveis. Integração. Teorema de Radon-Nikodyn. Espaços de Banach Clássicos. Imagens de medidas e medidas-produto. Derivação e integração. </p>
    <div style="clear:both;"></div>
   </details>
   <details>
