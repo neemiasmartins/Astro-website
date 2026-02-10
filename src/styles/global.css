@@ -378,7 +378,7 @@ img[src*='#left'] {
 }
 .slides::-webkit-scrollbar-thumb {
   background: black;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .slides::-webkit-scrollbar-track {
   background: transparent;
@@ -389,7 +389,7 @@ img[src*='#left'] {
   width: 300px;
   /*height: 195px;*/
   margin-right: 50px;
-  border-radius: 10px;
+  border-radius: 20px;
   background: #eee;
   transform-origin: center center;
   transform: scale(1);
