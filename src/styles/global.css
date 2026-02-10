@@ -353,7 +353,7 @@ img[src*='#left'] {
 .slider {
   width: 300px;
   text-align: center;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .slides {
