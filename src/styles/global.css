@@ -427,25 +427,36 @@ img-slider {
   height: 100%;
 }
 
+
+
 .slider > a {
   display: inline-flex;
-  width: 1.5rem;
-  height: 1.5rem;
-  background: #eee;
+  width: 0.75rem;
+  height: 0.75rem;
   text-decoration: none;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
   margin: 0.5rem 0 0 0.25rem;
   position: relative;
-  border: 2px solid #000;      /* ← border added */
-  box-sizing: border-box;      /* prevents size jump */
+	font-size: 10pt;
+	font-family: "STIX Two Text", serif;
+	color:white;
 }
 .slider > a:active {
   top: 1px;
 }
+
+.slider > a{
+	background: #3273dc; 
+}
+.dark .slider > a{
+	background: #eca409;
+}
+
+
 .slider > a:focus {
-  background: #000;
+  background: #eee;
 }
 
 /* Don't need button navigation */

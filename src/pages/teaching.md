@@ -12,19 +12,18 @@ heroImage: "/img/cb-04-unicamp.jpeg"
  
   <div class="slides">
     <div id="slide-1">
-      <img src="/img/2026-0_UFV_644-1.jpeg" alt="MAT 644" width="300">
+       <img src="/img/2026-0_UFV_644-1.jpeg" alt="MAT 644" width="300">
     </div>
     <div id="slide-2">
       <img src="/img/2026-0_UFV_644-2.jpeg" alt="MAT 644" width="300">
     </div>
 
-  </div>
-  
-  <a href="#slide-1">1</a>
-  <a href="#slide-2">2</a>
+  </div></div>
+  <div class="slider">
+  <a href="#slide-1"></a>
+  <a href="#slide-2"></a>
 
-  
-</div>
+  </div>
 
   <p><strong>2026/0</strong>. <a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a></p><p> <strong>Ementa:</strong> Medidas e extensão de medidas. Medidas com sinal. Funções mensuráveis. Integração. Teorema de Radon-Nikodyn. Espaços de Banach Clássicos. Imagens de medidas e medidas-produto. Derivação e integração. </p>
    <div style="clear:both;"></div>
