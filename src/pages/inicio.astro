@@ -1,0 +1,45 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/header-pt.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../config';
+import Section from '../components/Section.astro';
+---
+
+<!DOCTYPE html>
+<html lang="pt-Br">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<link rel="sitemap" href="/sitemap-index.xml" />
+
+
+
+
+	</head>
+	<body>
+	
+		<Header title={SITE_TITLE} />
+		<main style="margin: auto 0;">
+
+			
+			<p><h1 class="neemias">Neemias Martins</h1><a href="https://www.instagram.com/neemias.math"><img src="/img/neemias.jpg" style="width:120px;" class="profile_pic" alt="Photo Neemias"></a>
+			Professor na <a href="https://www.ufv.br/">Universidade Federal de Viçosa</a>. Doutor em matemática pela <a href="https://www.unicamp.br">Unicamp</a>/<a href="https://www.ime.unicamp.br/">Imecc</a>. </p>
+
+			<p>
+			Meus interesses de pesquisa são Sistemas Dinâmicos, Teoria Ergódica e Dinâmica Simbólica. </p>
+			<p>	
+				Currículo está disponível <a href="/resume.pdf">aqui</a>.
+		 E-mail para contato <a href="mailto:neemias.martins@ufv.br">neemias.martins@ufv.br</a>. </p>
+		 <p>Endereço institucional: DMA/UFV - Sala A-302.</p>
+		<p style="margin-bottom:1.5cm;">
+
+		
+
+			
+		
+
+		
+		</main>
+		<Footer />
+	</body>
+</html>
