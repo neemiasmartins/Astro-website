@@ -18,7 +18,7 @@ const {
 } = Astro.props;
 ---
 
-<html lang="en">
+<html lang="pt-Br">
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
@@ -26,7 +26,10 @@ const {
 				font-size: 1.5em;
 				margin: 0.25em 0 0;
 			}
-			
+			hr {
+				border-top: 1px solid #ddd;
+				margin: 1rem 0;
+			}
 		</style>
 	</head>
 
@@ -42,7 +45,7 @@ const {
 						Last updated on <time>{updatedDate}</time>
 					</div>
 				)}
-				<p></p>
+				<hr />
 				<slot />
 			</article>
 

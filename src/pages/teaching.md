@@ -1,5 +1,5 @@
 ---
-layout: "../layouts/teaching.astro"
+layout: "../layouts/Post-br.astro"
 title: "Teaching / Ensino"
 description: "Página contendo disciplinas ministradas e materiais didáticos relacionados"
 updatedDate: ""
