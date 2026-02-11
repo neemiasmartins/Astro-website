@@ -470,4 +470,23 @@ img-slider {
   }
 }*/
 
+
+.slide-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  background: rgba(0,0,0,0.65);
+  color: white;
+  font-size: 0.9rem;
+}
+
+.caption {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #444;
+  text-align: center;
+}
+
 /* carrossel de imagens:fim */
