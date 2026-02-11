@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/BlogPost.astro"
-title: "Research"
+title: "Research/Pesquisa"
 description: "Papers and preprints"
 updatedDate: ""
 heroImage: "/img/teaching.jpg"
