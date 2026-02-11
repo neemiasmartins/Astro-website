@@ -6,30 +6,34 @@ updatedDate: ""
 heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 ## UFV
-  <details open>
+  <details>
     <summary>Medida e Integração - MAT 644 (Mestrado)</summary>
-  
-
-  <p><strong>2026/0</strong>. <a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a></p><p> <strong>Ementa:</strong> Medidas e extensão de medidas. Medidas com sinal. Funções mensuráveis. Integração. Teorema de Radon-Nikodyn. Espaços de Banach Clássicos. Imagens de medidas e medidas-produto. Derivação e integração. </p>
+    <ul>
+      <li>2026/0: <a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a>,<a href="https://drive.google.com/file/d/17OSDq_HiW6LGEgvxjs0Ep04CrKUvVShG/view?usp=drive_link"> Prova 1</a> , <a href="https://drive.google.com/file/d/1qgn6tBbt70ISwKLTsOmy7r9VeP5cwdDW/view?usp=drive_link">Prova 2</a></li>
+    </ul>     
    <div style="clear:both;"></div>
   </details>
   <details>
     <summary>Matemática Básica - MAT 101</summary>
-   <p>2026/0 (Intercambistas do Timor Leste)</p><p><strong>Ementa:</strong>Conjuntos numéricos. Cálculo algébrico. Polinômios. Funções. Regiões no plano. </p>
+   <ul>
+      <li>2026/0 - Alunos do Timor Leste</li>
+    </ul>   
    <div style="clear:both;"></div>
   </details>
   <details>
     <summary>Cálculo I - MAT 146</summary>
-    <img src="/img/2025-2_UFV_146.jpeg" alt="MAT 146" width="250">
-   <p>2025/2</p><p><strong>Ementa:</strong>Limites e Continuidade. Derivadas. Aplicações da derivada. Integrais. Aplicações da integral. </p>
+   <ul>
+      <li>2025/2</li>
+    </ul>  
    <div style="clear:both;"></div>
   </details>
 
   <details> 
     <summary>Introdução à Álgebra Linear - MAT 137
     </summary>
-    <img src="/img/2025-2_UFV_137.jpeg" alt="MAT 137" width="250">
-    <p>2025/2</p><p><strong>Ementa:</strong>Matrizes. Sistema de equações lineares. Determinantes e matriz inversa. Espaços vetoriais. Transformações lineares. Diagonalização de operadores.</p>
+    <ul>
+      <li>2025/2</li>
+    </ul>  
    <div style="clear:both;"></div>
   </details>
 
@@ -50,7 +54,6 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
   <details>
     <summary>UNICAMP - 2023/2024</summary>
-    <img src="/img/cb-unicamp.jpeg#rightsmall" alt="CB Unicamp" width="250">
     <p><strong>Programa de Estágio Docente — 2023–2024</strong></p>
     <ul>
       <li><a href="https://neemias.org/ped">Cálculo II — MA211 (2024/1)</a></li>
@@ -82,16 +85,32 @@ heroImage: "/img/cb-04-unicamp.jpeg"
   <div class="slides">
     <div id="slide-1">
        <img src="/img/2026-0_UFV_644-1.jpeg" alt="MAT 644" width="300">
-        <div class="slide-text"> Medida e Integração - Verão 2026</div>
+        <div class="slide-text"> Medida e Integração - Verão 2026 - UFV</div>
     </div>
     <div id="slide-2">
       <img src="/img/2026-0_UFV_644-2.jpeg" alt="MAT 644" width="300">
     </div>
+    <div id="slide-3">
+       <img src="/img/2025-2_UFV_137.jpeg" alt="MAT 137" width="300">
+        <div class="slide-text"> Introdução à Álgebra Linear - 2025/2 - UFV</div>
+    </div>
+    <div id="slide-4">
+      <img src="/img/2025-2_UFV_146.jpeg" alt="MAT 146" width="300">
+        <div class="slide-text"> Cálculo 1 - 2025/2 - UFV</div>
+    </div>
+    <div id="slide-5">
+      <img src="/img/cb-unicamp.jpeg" alt="CB Unicamp" width="300">
+        <div class="slide-text"> CB Unicamp 2023/2024</div>
+    </div>
+
 
   </div></div>
   <div class="slider">
   <a href="#slide-1"></a>
   <a href="#slide-2"></a>
+  <a href="#slide-3"></a>
+  <a href="#slide-4"></a>
+  <a href="#slide-5"></a>
 
   </div>
 
