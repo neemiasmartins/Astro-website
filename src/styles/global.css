@@ -353,12 +353,13 @@ img[src*='#left'] {
 .slider {
   width: 300px;
   text-align: center;
-  overflow: visible;
+  overflow: hidden;
+	margin: 0 auto; /* to center the carousel in page */
+	
 }
 
 .slides {
-  display: flex;
-  
+	display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   
@@ -373,16 +374,19 @@ img[src*='#left'] {
   */
 }
 .slides::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
+  width: 5px;
+  height: 7px;
 }
 .slides::-webkit-scrollbar-thumb {
-  background: black;
+  background: transparent; /*  #eee; */
   border-radius: 15px;
 }
 .slides::-webkit-scrollbar-track {
   background: transparent;
 }
+
+
+
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
