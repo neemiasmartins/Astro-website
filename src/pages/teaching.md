@@ -16,7 +16,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
   <details>
     <summary>Matemática Básica - MAT 101</summary>
    <ul>
-      <li>2026/0 - Alunos do Timor Leste</li>
+      <li>2026/0</li>
     </ul>   
    <div style="clear:both;"></div>
   </details>
@@ -83,22 +83,26 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 <div class="slider">
  
   <div class="slides">
-    <div id="slide-1">
+   <div id="slide-6">
+       <img src="/img/2026-0_UFV_101TimorLeste.jpeg" alt="MAT 644" width="300">
+        <div class="slide-text"> Matemática Básica - Verão 2026 - UFV <br/>Estudantes de Timor Leste</div>
+    </div>  
+    <div id="slide-5">
        <img src="/img/2026-0_UFV_644-1.jpeg" alt="MAT 644" width="300">
         <div class="slide-text"> Medida e Integração - Verão 2026 - UFV</div>
     </div>
-    <div id="slide-2">
+    <div id="slide-4">
       <img src="/img/2026-0_UFV_644-2.jpeg" alt="MAT 644" width="300">
     </div>
     <div id="slide-3">
        <img src="/img/2025-2_UFV_137.jpeg" alt="MAT 137" width="300">
         <div class="slide-text"> Introdução à Álgebra Linear - 2025/2 - UFV</div>
     </div>
-    <div id="slide-4">
+    <div id="slide-2">
       <img src="/img/2025-2_UFV_146.jpeg" alt="MAT 146" width="300">
         <div class="slide-text"> Cálculo 1 - 2025/2 - UFV</div>
     </div>
-    <div id="slide-5">
+    <div id="slide-1">
       <img src="/img/cb-unicamp.jpeg" alt="CB Unicamp" width="300">
         <div class="slide-text"> CB Unicamp 2023/2024</div>
     </div>
@@ -106,11 +110,12 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
   </div></div>
   <div class="slider">
-  <a href="#slide-1"></a>
-  <a href="#slide-2"></a>
-  <a href="#slide-3"></a>
-  <a href="#slide-4"></a>
+  <a href="#slide-6"></a>
   <a href="#slide-5"></a>
+  <a href="#slide-4"></a>
+  <a href="#slide-3"></a>
+  <a href="#slide-2"></a>
+  <a href="#slide-1"></a>
 
   </div>
 
