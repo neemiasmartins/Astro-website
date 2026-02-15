@@ -509,7 +509,7 @@
  
  /* carrossel de imagens:fim */
 
- .ol {
+ ol {
 	list-style-position: outside;
 	 padding-left:0;
 	 margin-left:0;
