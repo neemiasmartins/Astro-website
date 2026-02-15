@@ -508,3 +508,9 @@
  }
  
  /* carrossel de imagens:fim */
+
+ .ol {
+	list-style-position: outside;
+	 padding-left:0;
+	 margin-left:0;
+ }
