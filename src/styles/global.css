@@ -59,6 +59,7 @@
  a:hover {
 	 text-decoration: underline;
 	 text-decoration-color: #3273dc; 
+	 text-decoration-thickness: 1pt;
  }
  
  a[href$="pdf"]:after { /* href attribute ends with pdf */

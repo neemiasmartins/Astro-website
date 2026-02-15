@@ -33,23 +33,5 @@ heroImage: "/img/cb-unicamp.jpeg"
 - (Alguns) Exercícios de Revisão - [exercícios](https://neemias.org/teaching/ma211-2024-i/exercises11.pdf)
 
 
-## Informações
-- e-mail: neemias@ime.unicamp.br
-- Horários das Aulas de Exercícios:
-  - Turma E:  Sex. 16h às 18h - CB07
-  - Turma X:  Sex. 19h às 21h - CB14 
-
-- Horários de atendimento: 
-  - Ter. 18h às 19h - IMECC 223
-  - Qua. 13h às 14h - IMECC 222
-
-
----
-
- <img src="/avatar.png" style="width:60px; float: right;
-    margin-left: 20px; margin-right:0;"  alt="@neemias.math">
-    👋  *Olá, pessoal! Foi um prazer trabalhar com vocês ao longo deste semestre. Desejo a todos muitos sucessos em suas carreiras! Abraços!
-    Obs: As aulas e monitorias foram concluídas, caso queira tirar dúvidas em algum tópico/exercício antes do Exame, me mande um e-mail.* 
-
 
 
