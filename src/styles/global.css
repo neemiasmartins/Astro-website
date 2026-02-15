@@ -45,11 +45,20 @@
  
  
  a {
-	 color: #3273dc; 
-	 text-decoration: none;
+	 color: black;
+	 /*color: #3273dc; */
+	 text-decoration: underline;
+	 text-decoration-thickness: 0.75pt;
+	 text-underline-offset: 3px;
+	 text-decoration-skip: 0.5pt;
+	 text-decoration-color: gray;
+	
+	 
+
  }
  a:hover {
 	 text-decoration: underline;
+	 text-decoration-color: #3273dc; 
  }
  
  a[href$="pdf"]:after { /* href attribute ends with pdf */
@@ -113,7 +122,8 @@
 	 color: #fff;
  }
  .dark a {
-	 color: #eca409;
+	 /*color: #eca409;*/
+	 color:white;
  }
  
  .center {
@@ -147,7 +157,11 @@
 	 align-items: center;
 	 justify-content: space-between;
 	 font-size: 18px;
+	 font-weight: 500;
+
  }
+
+
  
  .nav-links {
 	 display: flex;
@@ -191,6 +205,7 @@
 	 font-family: "STIX Two Text", serif;
 	 font-optical-sizing: auto;
 	 font-style: italic;
+	 font-weight: 500;
  
  }
  
