@@ -8,7 +8,7 @@ heroImage: ""
 
 ## Upcoming events
 - [XVII Workshop de Verão em Matemática do DMA - UFV](https://sites.google.com/ufv.br/workshopdeverao2026/), Mar 4-6, 2026, Viçosa
-- [International Mathematics Days V]((https://sites.google.com/ufv.br/internationalmathematicsdaysv/)), May 4-8, 2026, Viçosa
+- [International Mathematics Days V](https://sites.google.com/ufv.br/internationalmathematicsdaysv/), May 4-8, 2026, Viçosa
 
 
 ## Past events
