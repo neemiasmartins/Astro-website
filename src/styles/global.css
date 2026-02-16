@@ -70,14 +70,17 @@
 
  a.morelink {
   /*color: #2d6a4f;*/
-	color: #3273dc;
+	/*color: #3273dc;*/
   font-weight: 500;
+	color: black;
+
 }
 
 
 .dark a.morelink{
 	/*color: #95d5b2;*/
-	color: #eca409;
+	/*color: #eca409;*/
+	color: white;
 }
 
 
