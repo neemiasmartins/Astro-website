@@ -7,6 +7,13 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 ## UFV
   <details>
+    <summary>Análise 1 - MAT 341</summary>
+    <ul>
+      <li>2026/0: <a href="https://drive.google.com/file/d/1smoEh-ropho77ARc-5GPlN_xJ6Cw3JpD/view?usp=drive_link">Plano de Ensino</a></li>
+    </ul>     
+   <div style="clear:both;"></div>
+  </details>
+  <details>
     <summary>Medida e Integração - MAT 644 (Mestrado)</summary>
     <ul>
       <li>2026/0: <a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a>,<a href="https://drive.google.com/file/d/17OSDq_HiW6LGEgvxjs0Ep04CrKUvVShG/view?usp=drive_link"> Prova 1</a>, <a href="https://drive.google.com/file/d/1qgn6tBbt70ISwKLTsOmy7r9VeP5cwdDW/view?usp=drive_link">Prova 2</a></li>
