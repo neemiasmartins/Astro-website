@@ -6,10 +6,10 @@ updatedDate: ""
 heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 ## UFV
-  <details>
+  <details open>
     <summary>Análise 1 - MAT 341</summary>
     <ul>
-      <li>2026/1: <a href="https://drive.google.com/file/d/1smoEh-ropho77ARc-5GPlN_xJ6Cw3JpD/view?usp=drive_link">Plano de Ensino</a></li>
+      <li>2026/1: <a href="https://drive.google.com/file/d/1smoEh-ropho77ARc-5GPlN_xJ6Cw3JpD/view?usp=sharing">Plano de Ensino</a>, <a href="https://drive.google.com/file/d/1P9R-ker-dwBKI7UgmZD9CfL_fzm-xnAK/view?usp=sharing">Exercícios</a></li>
     </ul>     
    <div style="clear:both;"></div>
   </details>
