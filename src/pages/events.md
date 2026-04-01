@@ -7,11 +7,12 @@ heroImage: ""
 ---
 
 ## Upcoming events
-- [XVII Workshop de Verão em Matemática do DMA - UFV](https://sites.google.com/ufv.br/workshopdeverao2026/), Mar 4-6, 2026, Viçosa
+
 - [International Mathematics Days V](https://sites.google.com/ufv.br/internationalmathematicsdaysv/), May 4-8, 2026, Viçosa
 
 
 ## Past events
+- [XVII Workshop de Verão em Matemática do DMA - UFV](https://sites.google.com/ufv.br/workshopdeverao2026/), Mar 4-6, 2026, Viçosa
 - [III Workshop Nordestino de Sistemas Dinâmicos](https://sites.google.com/view/3-workshop-nordestino-sd/) -  Jan 19-22, 2026, Salvador
 - [I Congresso do IMECC](https://congresso2025imecc.ime.unicamp.br/) - Jul 7-11, 2025, Campinas
 - [Dyadisc 7](https://dyadisc7.sciencesconf.org/) : Brazilian, chilean and french interplay for symbolic dynamics - Dec 9-11, 2024, Campinas 
