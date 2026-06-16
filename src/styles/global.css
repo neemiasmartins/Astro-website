@@ -256,18 +256,41 @@
  }
  
  
- .profile_pic {
-	 float:right;
-	 width:12rem;
-	 border-radius: 10px;
-	 margin:0em 0em .7em .7em;
-	 }
- 
- .neemias {
-	 font-family: "STIX Two Text", serif;
-	 font-optical-sizing: auto;
-	 font-style: italic;
- }
+.profile-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.profile-title {
+  display: flex;
+  flex-direction: column;
+}
+
+.neemias {
+  font-family: "STIX Two Text", serif;
+  font-style: italic;
+  margin: 0;
+}
+
+.subtitle {
+  margin: 5px 0 0;
+  font-weight: normal;
+  color: #555;
+}
+
+.profile-img img {
+  width: 100px;
+  height: auto;
+  border-radius: 20px;
+  display: block;
+  
+}
+
+.profile-bottom {
+  margin-top: 15px;
+}
  
 	 
  h3 {
