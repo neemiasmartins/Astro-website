@@ -6,7 +6,7 @@ updatedDate: ""
 heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 ## UFV
-  <details open>
+  <details>
     <summary>Análise 1 - MAT 341</summary>
     <ul>
       <li>2026/1: <a href="https://drive.google.com/file/d/16mNoFr1CsTnHS-M60JyHJqx24ojx3UGA/view?usp=drive_link">Plano de Ensino</a>, <a href="https://drive.google.com/file/d/1P9R-ker-dwBKI7UgmZD9CfL_fzm-xnAK/view?usp=sharing">Exercícios</a></li>
@@ -31,6 +31,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
     <summary>Cálculo I - MAT 146</summary>
    <ul>
       <li>2025/2</li>
+      <li>2026/1</li>
     </ul>  
    <div style="clear:both;"></div>
   </details>
@@ -77,7 +78,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
     </ul>
   </details>
 
-  <details>
+  <details><br/>
     <summary>UFV - 2020</summary>
     <p><strong>Professor Substituto</strong></p>
     <ul>
@@ -90,8 +91,12 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 <div class="slider">
  
   <div class="slides">
+  <div id="slide-7">
+       <img src="/img/2026-1_UFV_146.jpeg" alt="MAT 146" width="300">
+        <div class="slide-text"> Cálculo 1 (MAT 146) - 2026/1 - UFV</div>
+    </div>  
    <div id="slide-6">
-       <img src="/img/2026-0_UFV_101TimorLeste.jpeg" alt="MAT 644" width="300">
+       <img src="/img/2026-0_UFV_101TimorLeste.jpeg" alt="MAT 101" width="300">
         <div class="slide-text"> Matemática Básica - Verão 2026 - UFV <br/>Estudantes de Timor Leste</div>
     </div>  
     <div id="slide-5">
@@ -107,7 +112,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
     </div>
     <div id="slide-2">
       <img src="/img/2025-2_UFV_146.jpeg" alt="MAT 146" width="300">
-        <div class="slide-text"> Cálculo 1 - 2025/2 - UFV</div>
+        <div class="slide-text"> Cálculo 1 (MAT 146) - 2025/2 - UFV</div>
     </div>
     <div id="slide-1">
       <img src="/img/cb-unicamp.jpeg" alt="CB Unicamp" width="300">
@@ -117,6 +122,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
   </div></div>
   <div class="slider">
+  <a href="#slide-7"></a>
   <a href="#slide-6"></a>
   <a href="#slide-5"></a>
   <a href="#slide-4"></a>
