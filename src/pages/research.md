@@ -23,5 +23,5 @@ heroImage: "/img/teaching.jpg"
 
 ## Undergraduate Research Students
 
-- [Eric Weber de Melo Ferreira](http://lattes.cnpq.br/5516776546828767). _Projeto IC: Dinâmica Simbólica: Shifts de Tipo Finito e Sombreamento._ 2026-2027.
-- [Laura Fernandes Pires](http://lattes.cnpq.br/6967358402954017). _Projeto IC: Dinâmica de Transformações no Círculo._ 2026-2027.
+- [Eric Weber de Melo Ferreira](http://lattes.cnpq.br/5516776546828767). _Dinâmica Simbólica: Shifts de Tipo Finito e Sombreamento._ 2026-2027.
+- [Laura Fernandes Pires](http://lattes.cnpq.br/6967358402954017). _Dinâmica de Transformações no Círculo._ 2026-2027.
