@@ -6,6 +6,13 @@ updatedDate: ""
 heroImage: "/img/cb-04-unicamp.jpeg"
 ---
 ## UFV
+  <details open>
+    <summary>Geometria Diferencial - MAT 451</summary>
+    <ul>
+      <li>2026/2</li>
+    </ul>     
+   <div style="clear:both;"></div>
+  </details>
   <details>
     <summary>Análise 1 - MAT 341</summary>
     <ul>
@@ -27,11 +34,12 @@ heroImage: "/img/cb-04-unicamp.jpeg"
     </ul>   
    <div style="clear:both;"></div>
   </details>
-  <details>
+  <details open>
     <summary>Cálculo I - MAT 146</summary>
    <ul>
       <li>2025/2</li>
       <li>2026/1</li>
+      <li>2026/2</li>
     </ul>  
    <div style="clear:both;"></div>
   </details>
