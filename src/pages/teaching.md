@@ -17,6 +17,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
 <details>
     <summary>Cálculo I - MAT 146</summary>
+    Conteúdo disponível em <a href="https://ava.ufv.br/"></a></li>
    <ul>
       <li>2025/2</li>
       <li>2026/1</li>
@@ -37,7 +38,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
     <summary>Introdução à Álgebra Linear - MAT 137
     </summary>
     <ul>
-      <li>2025/2</li>
+      <li>2025/2: Conteúdo disponível em <a href="https://ava.ufv.br/"></a></li></li>
     </ul>  
    <div style="clear:both;"></div>
   </details> 
@@ -45,7 +46,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
   <details>
     <summary>Matemática Básica - MAT 101</summary>
    <ul>
-      <li>2026/0</li>
+      <li>2026/0: Conteúdo disponível em <a href="https://ava.ufv.br/"></a></li>
     </ul>   
    <div style="clear:both;"></div>
   </details>
@@ -54,7 +55,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
   <details>
     <summary>Medida e Integração - MAT 644 (Mestrado)</summary>
     <ul>
-      <li>2026/0: <a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a>,<a href="https://drive.google.com/file/d/17OSDq_HiW6LGEgvxjs0Ep04CrKUvVShG/view?usp=drive_link"> Prova 1</a>, <a href="https://drive.google.com/file/d/1qgn6tBbt70ISwKLTsOmy7r9VeP5cwdDW/view?usp=drive_link">Prova 2</a></li>
+      <li>2026/0: <a href="https://drive.google.com/file/d/18ZolB0LIO89RIehsOCpeJcTZpEd-Hz7Y/view?usp=sharing">Plano de Ensino</a>, <a href="https://drive.google.com/file/d/1lV3u6EK1YEpoqeiSnCcS9eKNg5x2EmiM/view?usp=drive_link">Exercícios</a>,<a href="https://drive.google.com/file/d/17OSDq_HiW6LGEgvxjs0Ep04CrKUvVShG/view?usp=drive_link"> Prova 1</a>, <a href="https://drive.google.com/file/d/1qgn6tBbt70ISwKLTsOmy7r9VeP5cwdDW/view?usp=drive_link">Prova 2</a></li>
     </ul>     
    <div style="clear:both;"></div>
   </details>
