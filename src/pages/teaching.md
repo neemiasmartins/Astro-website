@@ -17,7 +17,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
 
 <details>
     <summary>Cálculo I - MAT 146</summary>
-    Conteúdo disponível em <a href="https://ava.ufv.br/"></a></li>
+    Conteúdo disponível no <a href="https://ava.ufv.br/">Pvanet Moodle</a></li>
    <ul>
       <li>2025/2</li>
       <li>2026/1</li>
@@ -38,7 +38,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
     <summary>Introdução à Álgebra Linear - MAT 137
     </summary>
     <ul>
-      <li>2025/2: Conteúdo disponível em <a href="https://ava.ufv.br/"></a></li></li>
+      <li>2025/2: Conteúdo disponível no <a href="https://ava.ufv.br/">Pvanet Moodle</a></li></li>
     </ul>  
    <div style="clear:both;"></div>
   </details> 
@@ -46,7 +46,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
   <details>
     <summary>Matemática Básica - MAT 101</summary>
    <ul>
-      <li>2026/0: Conteúdo disponível em <a href="https://ava.ufv.br/"></a></li>
+      <li>2026/0: Conteúdo disponível no <a href="https://ava.ufv.br/">Pvanet Moodle</a></li>
     </ul>   
    <div style="clear:both;"></div>
   </details>
