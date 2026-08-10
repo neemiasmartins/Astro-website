@@ -9,7 +9,7 @@ heroImage: "/img/cb-04-unicamp.jpeg"
   <details open>
     <summary>Geometria Diferencial - MAT 451</summary>
     <ul>
-      <li>2026/2</li>
+      <li>2026/2: <a href="https://drive.google.com/file/d/16yhnrJGJVfTip8fvlwwK-1pq3tFtcaVf/view?usp=sharing">Plano de Ensino</a> </li>
     </ul>     
    <div style="clear:both;"></div>
   </details>
